@@ -7,8 +7,8 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
-
+    {{-- <title>{{ config('app.name', 'Laravel') }}</title> --}}
+    <title>JCSA 2021</title>
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     {{-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -128,6 +128,7 @@
         <main class="py-4">
             @yield('content')
         </main>
+        @yield('script')
     </div>
 </body>
 </html>
