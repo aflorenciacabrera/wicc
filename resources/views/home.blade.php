@@ -19,8 +19,8 @@
     </div>
 
    {{-- ************************************************************************************************ --}}
-   <div class="row justify-content-between pt-5">
-        <div class="col-md-9">
+   <div class="row justify-content-between pt-5 text-justify">
+        <div class="col-md-12">
             <p><h3> Jornadas de Calidad de Software y Agilidad 2021 - FaCENA</h3></p>
                 <p><h4 class="text-muted">Viernes 12 y sábado 13 de noviembre de 2021</h4></p>
 
@@ -37,8 +37,8 @@
         </div>
     </div>
     {{-- ************************************************ --}}
-    <div class="row justify-content-between pt-3">
-        <div class="col-md-9">
+    <div class="row justify-content-between pt-3 text-justify">
+        <div class="col-md-12">
             <p><h3> Presentación de Trabajos Académicos y Experiencias en la Industria</h3></p>
                 <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p>
 
@@ -51,8 +51,8 @@
         </div>
     </div>
      {{-- ************************************************ --}}
-     <div class="row justify-content-between pt-3">
-        <div class="col-md-9">
+     <div class="row justify-content-between pt-3 text-justify">
+        <div class="col-md-12">
             <p><h3> Presentación de Trabajos Académicos y Experiencias en la Industria</h3></p>
                 <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p>
 

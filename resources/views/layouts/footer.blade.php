@@ -81,12 +81,12 @@
 <!--foote_bottom_ul_amrc ends here-->
 <p class="text-center">JCSA @2021 | IV Jornadas de Calidad de Software y Agilidad <a href="#"></a></p>
 
-<ul class="social_footer_ul">
+{{-- <ul class="social_footer_ul">
 <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
 <li><a href=""><i class="fab fa-twitter"></i></a></li>
 <li><a href=""><i class="fab fa-linkedin"></i></a></li>
 <li><a href=""><i class="fab fa-instagram"></i></a></li>
-</ul>
+</ul> --}}
 <!--social_footer_ul ends here-->
 </div>
 
