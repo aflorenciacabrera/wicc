@@ -79,7 +79,7 @@
 <li><a href=""></a></li>
 </ul>
 <!--foote_bottom_ul_amrc ends here-->
-<p class="text-center">JCSA @2021 | IV Jornadas de Calidad de Software y Agilidad <a href="#"></a></p>
+<p class="text-center">JCSA 2021 | IV Jornadas de Calidad de Software y Agilidad <a href="#"></a></p>
 
 {{-- <ul class="social_footer_ul">
 <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
