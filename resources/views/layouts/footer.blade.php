@@ -105,7 +105,7 @@
 section{
     /* padding-top: 98px; */
 }
-footer { width:100%; background-color:#263238; min-height:200px; padding:10px 0px 25px 0px ; background-size: cover;
+footer { width:100%; background-color:#263238; min-height:100px; padding:10px 0px 25px 0px ; background-size: cover;
            background-position-y:bottom; }
 .pt2 { padding-top:40px ; margin-bottom:20px ;}
 footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
