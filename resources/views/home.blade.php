@@ -153,7 +153,7 @@
     <hr>
     <div class="row justify-contente-between pt-3">
         <div class="col-md-12 text-center viole text-white">
-            <p><h3> ACTAS</h3></p>
+            <p><h3> Actas</h3></p>
                 {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
         </div>
         <div class="col-md-12">
