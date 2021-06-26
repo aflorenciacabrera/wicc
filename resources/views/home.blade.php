@@ -67,11 +67,11 @@
             <p><h5> Formas de participación</h5></p>
         </div>
         <div class="col-md-6">
-            <div class="row">
-                <div class="col-12 clarito text-center border">
+            <div class="row ">
+                <div class="col-12 clarito text-center ">
                     <p><h5> Artículos científicos y póster</h5></p>
                 </div>
-                <div class="col-md-12 border">
+                <div class="col-md-12 ">
                                             {{--  --}}
                                             <p>Los autores deben enviar sus trabajos desde el siguiente enlace: <a href="https://easychair.org/account/signin" target="_blank">aquí</a> </p>
                                             {{--  --}}
@@ -118,11 +118,30 @@
         </div>
         <div class="col-md-6">
             <div class="row">
-                <div class="col-12 clarito text-center border">
+                <div class="col-12 clarito text-center ">
                     <p><h5 >Experiencias en la Industria del Software</h5></p>
                 </div>
-                <div class="col-md-12  border">
+                <div class="col-md-12  ">
+                     
+       
+            <p>Las empresas o profesionales independientes deben enviar sus experiencias indicando 
+                de forma resumida el contexto de una solución innovadora en el campo de la Industria del Software realizada en la región. </p>
 
+            <p>Los resúmenes aceptados contarán con un track especial en las IV Jornadas de Calidad de Software y 
+                Agilidad a realizarse el viernes 12 de noviembre en modalidad virtual con un total de 15 minutos por Experiencia aceptada.</p>
+
+                <p>A continuación encontrará el enlace a la presentacción del trabajo:</p>
+
+                <p>Presentación de Trabajos Experiencias en la Industria del Software para las IV JCSA 2021: <a href="https://forms.gle/LDLbdEHxVuVbQ2gGA" target="_blank">aquí</a></p>
+
+                <p class="text-center clarito"><strong>Fechas Importantes</strong></p>
+            <div class="col pb-3"> 
+                <ul class="list-group">
+                    <li class="">Cierre de Recepción de Resúmenes: 18 de octubre</li>
+                    <li class="">Notificación de Aceptación: 31 de octubre</li>                                                              
+                </ul>
+            </div>                          
+        </p>
                 </div>
             </div>
         </div>
@@ -140,11 +159,13 @@
         <div class="col-md-12">
            
 
+              <h5 class="text-muted">
                 <p> Todos los artículos aceptados y presentados en las Jornadas se publicarán en las actas de las 
                     Jornadas con ISBN incluido. El Libro de Actas estará disponible en el Repositorio Institucional 
                     de la Universidad Nacional del Nordeste.</p>
 
                 <p>Les agradecemos la difusión del presente llamado y esperamos sus propuestas.</p>
+              </h5>
         </div>
 
     </div>
