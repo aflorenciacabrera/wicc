@@ -88,20 +88,19 @@
 <!-- Image and text -->
 
 
-  <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm" style="background-color: #e3f2fd;">
+  <nav class="navbar navbar-expand-md navbar-light" style="background-color: #d6d6d6;">
     {{-- <a class="navbar-brand" href="#">Navbar scroll</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button> --}}
     <a class="navbar-brand" href="#">
-        <div class="row">
-            <div class="col-2">
-                <img src="{{asset('image/jocsa2021.jpg')}}" width="70" height="70" class="d-inline-block align-top" alt="">
+      
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="{{asset('image/logo.png')}}" class="w-100" alt="">
+                </div>
             </div>
-            <div class="col-4">
-                JCSA 2021:<br> <small >IV Jornadas de Calidad de Software y Agilidad</small>
-            </div>    
-        </div>
+     
       </a>
   </nav>
   {{-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -128,7 +127,7 @@
   </nav> --}}
 
 
-        <main class="py-4">
+        <main class="">
             @yield('content')
         </main>
         @yield('script')

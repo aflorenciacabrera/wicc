@@ -105,11 +105,11 @@
     </div>
     <div id="accordion">
         <div class="card">
-          <div class="card text-left" id="headingOne">
+          <div class="card text-left border-0" id="headingOne">
             <h5 class="mb-0">
               <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
               
-                    <strong>
+                    <strong class="text-gris">
                        Artículos científicos y póster
                     </strong>  
               </button>
@@ -165,10 +165,12 @@
           </div>
         </div>
         <div class="card">
-          <div class="card text-left" id="headingTwo">
+          <div class="card text-left  border-0" id="headingTwo">
             <h5 class="mb-0">
               <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Experiencias en la Industria del Software
+                  <strong class="text-gris">
+                    Experiencias en la Industria del Software
+                  </strong>
               </button>
             </h5>
           </div>
