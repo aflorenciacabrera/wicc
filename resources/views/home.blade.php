@@ -108,10 +108,10 @@
         <div class="card">
           <div class="card text-left border-0" id="headingOne">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <button class="btn azul collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
               
                     <strong class="text-gris">
-                       Artículos científicos y póster&nbsp;
+                       Llamado: Artículos científicos y póster&nbsp;
                        <i class="fas fa-chevron-down"></i>
                     </strong>  
               </button>
@@ -170,10 +170,10 @@
           <div class="card text-left  border-0" id="headingTwo">
             <h5 class="mb-0">
              
-                    <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <button class="btn collapsed azul btn-block text-gris" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       
                         <strong class="text-gris text-left">
-                            Experiencias en la Industria del Software&nbsp;
+                            Llamado: Experiencias en la Industria del Software&nbsp;
                       
                             <i class="fas fa-chevron-down"></i>
                       
@@ -413,6 +413,9 @@
     .clarito
     {
         background-color: #c2d1e4;
+    }
+    .azul{
+        background-color: #789bdd !important;
     }
 
     .text-azul-oscuro{
