@@ -75,14 +75,14 @@
             <p><h2><strong> IV Jornadas de Calidad de Software y Agilidad </strong></h2></p>
               
 
-                  <h5 class="text-muted poppins" >
+                  <div class="text-negro" >
                     <p>Campus Virtual de FaCENA</p>
 
                     <p>Las Jornadas de Calidad de Software y Agilidad (JCSA) inician en el año 2017 con la intención de difundir en la región del NEA avances y tendencias en Ingeniería de Software y propiciar un espacio de debate e intercambio donde interactúen universidades, sector público y sector empresarial vinculado a la industria del software.</p>
 
                         <p> Durante las dos jornadas se realizarán talleres, conferencias y la presentación de experiencias en la Industria del Software regional, con la participación de integrantes de la Industria, los Polos y Clústeres TIC y representantes de Organismos del Estado.</p>
                             <p>Las actividades propuestas están destinadas a ingenieros y licenciados en sistemas, estudiantes y docentes de estas especialidades, profesionales y empresarios del sector del software, así como también público interesado en el tema.</p>
-                  </h5>
+                  </div>
         </div>
         
     </div>
@@ -95,14 +95,15 @@
             <p><h3> Presentación de Trabajos Académicos y Experiencias en la Industria</h3></p>
         </div>
 
-        <div class="col-md-12 text-center">
-                <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p>
+        <div class="col-md-12 text-center text-negro">
+                <p>JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</p>
 
-                  <h5 class="text-muted">  
+                  
                       <p>Se invita a la comunidad académica a presentar trabajos a las IV JCSA 2021, enviando artículos científicos/académicos o Experiencias en la Industria originales que se encuadren en las temáticas de la Jornada.</p>
-                    </h5>
+                  
         </div>
     </div>
+    
     <div id="accordion">
         <div class="card">
           <div class="card text-left border-0" id="headingOne">
@@ -110,7 +111,8 @@
               <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
               
                     <strong class="text-gris">
-                       Artículos científicos y póster
+                       Artículos científicos y póster&nbsp;
+                       <i class="fas fa-chevron-down"></i>
                     </strong>  
               </button>
             </h5>
@@ -167,11 +169,18 @@
         <div class="card">
           <div class="card text-left  border-0" id="headingTwo">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  <strong class="text-gris">
-                    Experiencias en la Industria del Software
-                  </strong>
-              </button>
+             
+                    <button class="btn btn-link collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      
+                        <strong class="text-gris text-left">
+                            Experiencias en la Industria del Software&nbsp;
+                      
+                            <i class="fas fa-chevron-down"></i>
+                      
+                          </strong> 
+                      
+             
+            </button>
             </h5>
           </div>
           <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -209,16 +218,16 @@
             <p><h3> Actas</h3></p>
                 {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
         </div>
-        <div class="col-md-12">
+        <div class="col-md-12 text-negro">
            
 
-              <h5 class="text-muted">
+            
                 <p> Todos los artículos aceptados y presentados en las Jornadas se publicarán en las actas de las 
                     Jornadas con ISBN incluido. El Libro de Actas estará disponible en el Repositorio Institucional 
                     de la Universidad Nacional del Nordeste.</p>
 
                 <p>Les agradecemos la difusión del presente llamado y esperamos sus propuestas.</p>
-              </h5>
+            
         </div>
 
     </div>
@@ -293,7 +302,8 @@
 
     </div>
     <hr>
-    <div class="row justify-content-between pt-3">
+    
+    <div class="row justify-content-between pt-3 pb-5">
         <div class="col-md-12 text-center  text-gris ">
             <p><h3> Comité de Programa</h3></p>
                 {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
@@ -432,9 +442,20 @@
         color:rgb(53, 52, 52);
     }
 
+    .text-negro{
+        color: #212529
+    }
+
     /* #333953  azul oscuro 
     #748bb4 viole claro
     #85e4c4 celeste
     #c2d1e4 casi blanco
     */
+
+
+ 
+
+
 </style>
+
+

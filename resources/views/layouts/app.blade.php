@@ -18,16 +18,14 @@
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
-        <style>
-        body {
-            font-family: 'Poppins';font-size: 22px;
-        }
-        </style>
+      
 
     <!-- Styles -->
     {{-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous"> --}}
   
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    
+
 </head>
 <body>
     <div id="app">
@@ -87,22 +85,30 @@
 
 <!-- Image and text -->
 
-
-  <nav class="navbar navbar-expand-md navbar-light" style="background-color: #d6d6d6;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 col-md-6 offset-md-3">
+                    <div class="col-md-12 col-12 text-center">
+                        <img src="{{asset('image/logos.png')}}" class="w-100 w-md-75" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+  {{-- <nav class="navbar navbar-expand-md navbar-light" style="background-color: white;"> --}}
     {{-- <a class="navbar-brand" href="#">Navbar scroll</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button> --}}
-    <a class="navbar-brand" href="#">
+    {{-- <a class="navbar-brand" href="#">
       
             <div class="row">
-                <div class="col-md-6">
-                    <img src="{{asset('image/logo.png')}}" class="w-100" alt="">
+                <div class="col-md-12 text-center">
+                    <img src="{{asset('image/logos.png')}}" class="w-50" alt="">
                 </div>
             </div>
      
       </a>
-  </nav>
+  </nav> --}}
   {{-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="#"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
