@@ -302,7 +302,7 @@
                         <li class=""> Ing. Alice Rambo (FQCEyN - UNaM)</li> 
                         <li class=""> Dra. Verónica Bollati (FRRe - UTN)</li>    
                         <li class=""> Dr. César Acuña (FRRe - UTN)</li>
-                        <li class=""> DDra. Noelia Pinto (FRRe - UTN)</li> 
+                        <li class=""> Dra. Noelia Pinto (FRRe - UTN)</li> 
                                                                              
                     </ul>
                 </div>   
