@@ -2,6 +2,11 @@
 @extends('layouts.app')
 
 @section('content')
+<div id="flotante" class="shadow d-none">
+    <a href="#">
+    <img src="{{asset('image/Topia.png')}}" alt="" class="w-100">
+    </a>
+</div>
 <div class="container-fluid">
     <div class="row">
         <div class="col-12 py-3"  id="portada" >
@@ -454,6 +459,14 @@
     #85e4c4 celeste
     #c2d1e4 casi blanco
     */
+    #flotante{
+        position: absolute;
+   right:0;
+   top:50%;
+   width: 100px;
+   height: 100px;
+   z-index: 5000;
+    }
 
 
  
@@ -462,3 +475,11 @@
 </style>
 
 
+@section('script')
+<script>
+    $(document).ready(function(){
+
+        console.log("ready")
+    })
+</script>
+@endsection
