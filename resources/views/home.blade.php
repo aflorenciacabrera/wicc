@@ -2,10 +2,12 @@
 @extends('layouts.app')
 
 @section('content')
-<div id="flotante" class="shadow d-none">
-    <a href="#">
-    <img src="{{asset('image/Topia.png')}}" alt="" class="w-100">
-    </a>
+<div id="flotante">
+  <div class="card shadow">
+    <a href="https://topia.io/gics-free-9tyznj1tz" target="_blank">
+        <img src="{{asset('image/Topia.png')}}" alt="" class="w-100">
+        </a>
+  </div>
 </div>
 <div class="container-fluid">
     <div class="row">
@@ -460,12 +462,17 @@
     #c2d1e4 casi blanco
     */
     #flotante{
-        position: absolute;
-   right:0;
+        position: fixed;
+   right:10px;
    top:50%;
    width: 100px;
    height: 100px;
    z-index: 5000;
+    }
+
+    #flotante:hover{
+        width: 110px;
+   height: 110px;
     }
 
 
@@ -480,6 +487,8 @@
     $(document).ready(function(){
 
         console.log("ready")
-    })
+    });
+
+  
 </script>
 @endsection
