@@ -129,7 +129,7 @@
             <div class="card-body">
               <div class="col-md-12 ">
                   {{--  --}}
-                  <p>Los autores deben enviar sus trabajos desde el siguiente enlace: <a href="https://easychair.org/my/conference?conf=jcs2021#" target="_blank">aquí</a> </p>
+                  <p>Los autores deben enviar sus trabajos desde el siguiente enlace (es necesario tener una cuenta de EasyChair): <a href="https://easychair.org/my/conference?conf=jcs2021#" target="_blank">aquí</a> </p>
                   {{--  --}}
                   <ul class="">
                       <li class="">Idioma: español o inglés.</li>
