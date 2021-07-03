@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="IV Jornadas de Calidad de Software y Agilidad" />
     <meta property="og:description" content="Las Jornadas de Calidad de Software y Agilidad (JCSA) inician en el año 2017 con la intención de difundir en la región del NEA avances y tendencias en Ingeniería de Software y propiciar un espacio de debate e intercambio donde interactúen universidades, sector público y sector empresarial vinculado a la industria del software." />
-<meta property="og:image" content="{{asset('image/logo.png')}}" />
+<meta property="og:image" content="{{asset('image/redes.png')}}" />
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
