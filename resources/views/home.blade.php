@@ -201,9 +201,9 @@
                   <p>Los resúmenes aceptados contarán con un track especial en las IV Jornadas de Calidad de Software y 
                       Agilidad a realizarse el viernes 12 de noviembre en modalidad virtual con un total de 15 minutos por Experiencia aceptada.</p>
       
-                      <p>A continuación encontrará el enlace a la presentacción del trabajo:</p>
+                      <p>A continuación encontrará el enlace a la presentacción del trabajo</p>
       
-                      <p>Presentación de Trabajos Experiencias en la Industria del Software para las IV JCSA 2021: <a href="https://forms.gle/LDLbdEHxVuVbQ2gGA" target="_blank">aquí</a></p>
+                      <p>Presentación de Trabajos Experiencias en la Industria del Software para las IV JCSA 2021 <a href="https://forms.gle/LDLbdEHxVuVbQ2gGA" target="_blank">aquí</a></p>
       
                       <p class="text-center clarito"><strong>Fechas Importantes</strong></p>
                   <div class="col"> 
@@ -251,7 +251,7 @@
                 <li class=""> Calidad Interna y Externa del Software</li>  
                 <li class=""> Testing de Software</li> 
                 <li class=""> Verificación y Validación</li> 
-                <li class=""> Modelos y Métricas de Calidad de Softwaree</li> 
+                <li class=""> Modelos y Métricas de Calidad de Software</li> 
                 <li class=""> Calidad de Datos</li> 
                 <li class=""> Calidad de Software Específica de Dominio: mobile, web, embebidos, 
                     concurrentes, distribuidos, cloud, GUI y sistemas de tiempo real.</li>    
@@ -320,7 +320,7 @@
             <ul class="list-group list-group-flush">
                 <li  class=""> Mgter. Cristina Greiner (GICS - FaCENA - UNNE)</li>
                 <li  class=""> Mgter. Gladys Noemí Dapozo (GICS - FaCENA - UNNE)</li>
-                <li  class=""> Dr. Emanuel Irrazabal (GICS - FaCENA - UNNE)</li>
+                <li  class=""> Dr. Emanuel Irrazábal (GICS - FaCENA - UNNE)</li>
                 <li  class=""> Dr. Rubén Bernal (GICS - FaCENA - UNNE)</li>
                 <li  class=""> Dr. David la Red Martínez (FaCENA - UNNE)</li>
                 <li  class=""> Dra. Sonia Mariño (FaCENA - UNNE)</li>
