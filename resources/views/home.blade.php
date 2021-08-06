@@ -300,8 +300,8 @@
                     <ul class="list-group list-group-flush">
                     
                         <li class=""> Ing. Alice Rambo (FQCEyN - UNaM)</li> 
-                        <li class=""> Dra. Verónica Bollati (FRRe - UTN)</li>    
                         <li class=""> Dr. César Acuña (FRRe - UTN)</li>
+                        <li class=""> Dra. Verónica Bollati (FRRe - UTN)</li>    
                         <li class=""> Dra. Noelia Pinto (FRRe - UTN)</li> 
                                                                              
                     </ul>
@@ -350,7 +350,7 @@
             <li class=""> Ing. Edgardo Belloni (UGD)</li>
             <li class=""> Mag. Liliana Cuenca Pletsch (CINApTIC - UTN - FRRe)</li>
             <li class=""> Dra. Verónica Bollati (CINApTIC - UTN - FRRe / CONICET)</li>
-            <li class=""> César J. Acuña (CINApTIC - UTN - FRRe)</li>
+            <li class=""> Dr. César J. Acuña (CINApTIC - UTN - FRRe)</li>
             <li class=""> Dra. Noelia Pinto (CINApTIC - UTN - FRRe)</li>
             <li class=""> Esp. Gabriela Tomaselli (CINApTIC - UTN - FRRe)</li>
             <li class=""> Ing. Nicolas Tortosa (CINApTIC - UTN - FRRe)</li>
