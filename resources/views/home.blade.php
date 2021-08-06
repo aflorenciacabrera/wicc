@@ -349,8 +349,8 @@
             <li class=""> Dr. Diego Godoy (UGD)</li>
             <li class=""> Ing. Edgardo Belloni (UGD)</li>
             <li class=""> Mag. Liliana Cuenca Pletsch (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Dra. Verónica Bollati (CINApTIC - UTN - FRRe / CONICET)</li>
             <li class=""> Dr. César J. Acuña (CINApTIC - UTN - FRRe)</li>
+            <li class=""> Dra. Verónica Bollati (CINApTIC - UTN - FRRe / CONICET)</li>
             <li class=""> Dra. Noelia Pinto (CINApTIC - UTN - FRRe)</li>
             <li class=""> Esp. Gabriela Tomaselli (CINApTIC - UTN - FRRe)</li>
             <li class=""> Ing. Nicolas Tortosa (CINApTIC - UTN - FRRe)</li>
