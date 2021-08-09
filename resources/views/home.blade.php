@@ -78,17 +78,22 @@
    
  
    <div class="row justify-content-between pt-2 text-center">
-        <div class="col-md-12">
+        <div class="col-md-10 offset-md-1">
             <p><h2><strong> IV Jornadas de Calidad de Software y Agilidad </strong></h2></p>
               
 
                   <div class="text-negro" >
                     <p>Campus Virtual de FaCENA</p>
 
-                    <p>Las Jornadas de Calidad de Software y Agilidad (JCSA) inician en el año 2017 con la intención de difundir en la región del NEA avances y tendencias en Ingeniería de Software y propiciar un espacio de debate e intercambio donde interactúen universidades, sector público y sector empresarial vinculado a la industria del software.</p>
+                    
 
-                        <p> Durante las dos jornadas se realizarán talleres, conferencias y la presentación de experiencias en la Industria del Software regional, con la participación de integrantes de la Industria, los Polos y Clústeres TIC y representantes de Organismos del Estado.</p>
-                            <p>Las actividades propuestas están destinadas a ingenieros y licenciados en sistemas, estudiantes y docentes de estas especialidades, profesionales y empresarios del sector del software, así como también público interesado en el tema.</p>
+                    <p>Las Jornadas de Calidad de Software y Agilidad (JCSA) inician en el año 2017, bajo el nombre original de Jornadas de Calidad de Software, con la intención de difundir avances significativos en el campo de la Ingeniería del Software y, en particular, conceptos, métodos y herramientas que contribuyan a la Calidad de Software. Brindando un foro común donde la industria del software y las universidades puedan intercambiar experiencias, exponer necesidades y fomentar acciones conjuntas en el área.</p>
+                    
+                    <p>En esta edición, las jornadas pretenden consolidarse como un foro regional de referencia, ampliando su espectro para enfatizar, también, temas relacionados al uso de la agilidad. Incorporando además, la recepción de trabajos científicos y experiencias industriales que serán incluidos, luego de un proceso de revisión, en actas de las jornadas.</p>
+                    
+                    <p>Durante el evento se realizarán talleres, conferencias y la presentación de experiencias en la Industria del Software, con la participación de integrantes de la Industria, Universidad y Estado.</p>
+
+                    <p>Las actividades propuestas están destinadas a ingenieros y licenciados en sistemas, estudiantes y docentes de estas especialidades, profesionales y empresarios del sector del software, así como también público interesado en el tema.</p>
                   </div>
         </div>
         
