@@ -368,10 +368,10 @@
             <li class=""> Dr. Andrés Rodriguez (LIFIA - UNLP)</li>
             <li class=""> Dr. Marcelo Estayno (UNSAM)</li>
             <li class=""> Dr. Luis Olsina (GIDIS - UNLPam)</li>
-            <li class=""> Dra. Luciana Ballejos (INGAR - UTN - FRSF)</li>
+            <li class=""> Dra. Luciana Ballejos ((CIDISI - UTN - FRSF)</li>
             <li class=""> Dra. Luciana Roldan (INGAR - UTN - FRSF)</li>
             <li class=""> Dra. Milagros Gutierrez (UTN - FRSF)</li>
-            <li class=""> Dra. Mariel Alejandra Ale (UTN - FRSF)</li>
+            <li class=""> Dra. Mariel Alejandra Ale ((CIDISI - UTN - FRSF)</li>
             <li class=""> Dra. Elsa Estevez (UNSur / CONICET)</li>
             <li class=""> Dra. Alicia Mon (UNLaM)</li>          
         </ul>
