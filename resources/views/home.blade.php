@@ -169,8 +169,8 @@
                   <p class="text-center clarito"><strong>Fechas Importantes</strong></p>
                   {{--  --}}
                   <ul class="">
-                                      <li class=""></i>Cierre de Recepción de Artículos: 19 de septiembre</li>
-                                      <li class=""></i>Notificación de Aceptación a los Autores: 18 de octubre</li>  
+                                      <li class=""></i>Cierre de Recepción de Artículos: 26 de septiembre</li>
+                                      <li class=""></i>Notificación de Aceptación a los Autores: 24 de octubre</li>  
                                       <li class=""></i>Fecha Límite para Versión Final (camera ready) y envío del póster: 31 de octubre.</li>                             
                                   </ul>
       
