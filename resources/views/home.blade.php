@@ -134,7 +134,8 @@
             <div class="card-body">
               <div class="col-md-12 ">
                   {{--  --}}
-                  <p>Los autores deben enviar sus trabajos desde el siguiente enlace: <a href="https://docs.google.com/forms/d/e/1FAIpQLScMdHIrA58yGtmQil0DiBnqboUW9N2wpjCNqqFQquEQjtOzcQ/viewform" target="_blank">aquí</a> </p>
+                  {{-- <p>Los autores deben enviar sus trabajos desde el siguiente enlace: <a href="https://docs.google.com/forms/d/e/1FAIpQLScMdHIrA58yGtmQil0DiBnqboUW9N2wpjCNqqFQquEQjtOzcQ/viewform" target="_blank">aquí</a> </p> --}}
+                  <p>Los autores deben enviar sus trabajos desde el siguiente enlace (es necesario tener una cuenta de EasyChair):<i> enlace en reparación hasta el 23 de septiembre</i></p>
                   {{--  --}}
                   <ul class="">
                       <li class="">Idioma: español o inglés.</li>
