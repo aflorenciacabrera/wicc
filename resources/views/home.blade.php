@@ -58,13 +58,13 @@
                          </div>
                          
                          <div class="col-md-4">
-                            <div class="card boton shadow text-gris">
+                            <div class="card botond shadow text-gris">
                         
                                 <div class="card-header text-center">
                                   
                                       <strong>Actas</strong>
                                   </br>
-                                  <small class="text-white"> (próximamente)</small>
+                                  <small class="text-gris"> (próximamente)</small>
                                    
                                 </div>
                             </div>
@@ -405,14 +405,22 @@
     #portada .card{
         background-color:  rgb(255 255 255 / 70%);
     }
+
+    #portada .botond{
+        background-color:  rgb(255 255 255 / 70%);
+        color:rgb(53, 52, 52);
+    }
+    #portada .botond:hover{
+        background-color:  rgb(255 255 255 / 100%);
+    }
     #portada .boton{
-        background-color:  rgb(130 206 52 / 80%);
+        background-color:  rgb162 237 85 / 80%);
         color:white;
         cursor:pointer;
     }
 
     #portada .boton:hover{
-        background-color:  rgb(130 206 52 / 100%);
+        background-color:  rgb162 237 85 / 100%);
         color:white;
         cursor:pointer;
     }
