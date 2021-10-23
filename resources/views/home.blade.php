@@ -33,27 +33,30 @@
                 <div class="col-md-6 offset-md-3">
                      <div class="row">
                         <div class="col-md-4">
-                            <div class="card boton shadow text-gris">
+                        <a class="card boton shadow text-gris" target="_blank" href="{{asset('doc/Cronograma_IVJCSA_v01.pdf')}}">
                         
                                 <div class="card-header text-center">
                                   
-                                       <strong>Inscripción</strong>
-                                   </br>
-                                   <small class="text-muted"> (próximamente)</small>
+                                       <strong>Descargar el Cronograma</strong>
+                                  {{-- </br>
+                                   <small class="text-muted"> (próximamente)</small> --}}
                                 </div>
-                            </div>
+                            </a>
                          </div>
-                         <div class="col-md-4">
-                            <div class="card boton shadow text-gris">
+                        <div class="col-md-4">
+                            <a class="card boton shadow text-gris" href="https://www.eventbrite.com.ar/e/iv-jornadas-de-calidad-de-software-y-agilidad-2021-tickets-193807151407">
                         
                                 <div class="card-header text-center">
                                   
-                                       <strong>Programa</strong>
-                                  </br>
-                                   <small class="text-muted"> (próximamente)</small>
+                                       <strong>Inscribite</strong>
+                                           
+                                        </br>
+                                   <small class="text-muted">&nbsp;</small>
+                                           
                                 </div>
-                            </div>
+                            </a>
                          </div>
+                         
                          <div class="col-md-4">
                             <div class="card boton shadow text-gris">
                         
