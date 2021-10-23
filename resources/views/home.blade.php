@@ -414,13 +414,13 @@
         background-color:  rgb(255 255 255 / 100%);
     }
     #portada .boton{
-        background-color:  rgb162 237 85 / 80%);
+        background-color:  rgb(162 237 85 / 80%);
         color:white;
         cursor:pointer;
     }
 
     #portada .boton:hover{
-        background-color:  rgb162 237 85 / 100%);
+        background-color:  rgb(162 237 85 / 100%);
         color:white;
         cursor:pointer;
     }
