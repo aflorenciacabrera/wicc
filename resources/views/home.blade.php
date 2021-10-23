@@ -37,7 +37,7 @@
                         
                                 <div class="card-header text-center">
                                   
-                                       <strong>Descargar el Cronograma</strong>
+                                       <strong>Descargá el Cronograma</strong>
                                   {{-- </br>
                                    <small class="text-muted"> (próximamente)</small> --}}
                                 </div>
@@ -48,10 +48,10 @@
                         
                                 <div class="card-header text-center">
                                   
-                                       <strong>Inscribite</strong>
+                                       <strong>Inscribite a las Jornadas</strong>
                                            
-                                        </br>
-                                   <small class="text-muted">&nbsp;</small>
+                                        {{-- </br>
+                                   <small class="text-muted">&nbsp;</small> --}}
                                            
                                 </div>
                             </a>
@@ -64,7 +64,7 @@
                                   
                                       <strong>Actas</strong>
                                   </br>
-                                  <small class="text-muted"> (próximamente)</small>
+                                  <small class="text-white"> (próximamente)</small>
                                    
                                 </div>
                             </div>
@@ -405,13 +405,15 @@
     #portada .card{
         background-color:  rgb(255 255 255 / 70%);
     }
-    #portada .boton:hover{
-        background-color:  rgb(255 255 255 / 80%);
+    #portada .boton{
+        background-color:  rgb(130 206 52 / 80%);
+        color:white;
         cursor:pointer;
     }
 
     #portada .boton:hover{
-        background-color:  rgb(255 255 255 / 100%);
+        background-color:  rgb(130 206 52 / 100%);
+        color:white;
         cursor:pointer;
     }
 
