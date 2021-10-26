@@ -114,7 +114,7 @@
                 <p>JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</p>
 
                   
-                      <p>Se invita a la comunidad académica a presentar trabajos a las IV JCSA 2021, enviando artículos científicos/académicos o Experiencias en la Industria originales que se encuadren en las temáticas de la Jornada.</p>
+                      {{-- <p>Se invita a la comunidad académica a presentar trabajos a las IV JCSA 2021, enviando artículos científicos/académicos o Experiencias en la Industria originales que se encuadren en las temáticas de la Jornada.</p> --}}
                   
         </div>
     </div>
