@@ -43,18 +43,28 @@
                                 </div>
                             </a>
                          </div>
-                        <div class="col-md-4">
+                        {{-- <div class="col-md-4">
                             <a class="card boton shadow text-gris" href="https://www.eventbrite.com.ar/e/iv-jornadas-de-calidad-de-software-y-agilidad-2021-tickets-193807151407">
                         
                                 <div class="card-header text-center">
                                   
                                        <strong>Inscribite a las Jornadas</strong>
                                            
-                                        {{-- </br>
-                                   <small class="text-muted">&nbsp;</small> --}}
-                                           
+                               
                                 </div>
                             </a>
+                         </div> --}}
+                         <div class="col-md-4">
+                            <div class="card botond shadow text-gris">
+                        
+                                <div class="card-header text-center">
+                                  
+                                      <strong>Inscripción<br> Cerrada</strong>
+                                  {{-- </br>
+                                  <small class="text-gris"> (próximamente)</small> --}}
+                                   
+                                </div>
+                            </div>
                          </div>
                          
                          <div class="col-md-4">
