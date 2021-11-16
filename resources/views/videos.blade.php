@@ -101,7 +101,7 @@
  
    <div class="row justify-content-between pt-2 text-center">
         <div class="col-md-10 offset-md-1">
-            <p><h2><strong> Videos de la jornada </strong></h2></p>
+            <p><h2><strong> Videos de las Jornadas</strong></h2></p>
               
             <div class="card">
                 <div class="card-header">1. Taller #1. El impacto de las emociones en equipos ágiles</div>
