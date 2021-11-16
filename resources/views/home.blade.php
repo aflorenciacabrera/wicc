@@ -44,11 +44,11 @@
                             </a>
                          </div>
                          <div class="col-md-4">
-                            <a class="card boton shadow text-gris" target="_blank" href="{{asset('doc/Cronograma.pdf')}}">
+                            <a class="card boton shadow text-gris" href="{{route('videos')}}">
                             
                                     <div class="card-header text-center">
                                       
-                                           <strong>Enlace a </br>los eventos</strong>
+                                           <strong>Videos de las Jornadas</strong>
                                       {{-- </br>
                                        <small class="text-muted"> (próximamente)</small> --}}
                                     </div>
