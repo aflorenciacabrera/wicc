@@ -77,17 +77,16 @@
                          </div> --}}
                          
                          <div class="col-md-4">
-                            <div class="card botond shadow text-gris">
-                        
-                                <div class="card-header text-center">
-                                  
-                                      <strong>Actas</strong>
-                                  </br>
-                                  <small class="text-gris"> (próximamente)</small>
-                                   
-                                </div>
-                            </div>
-                         </div>
+                            <a class="card boton shadow text-gris" target="_blank" href="{{asset('doc/Anales_JCSA2021V2.pdf')}}">
+                            
+                                    <div class="card-header text-center">
+                                      
+                                           <strong>Actas</strong>
+                                      {{-- </br>
+                                       <small class="text-muted"> (próximamente)</small> --}}
+                                    </div>
+                                </a>
+                             </div>
                      </div>
                 </div>
             </div>
