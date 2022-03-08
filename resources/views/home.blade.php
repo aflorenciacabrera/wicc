@@ -79,9 +79,10 @@
                          <div class="col-md-4">
                             <a class="card boton shadow text-gris" target="_blank" href="{{asset('doc/Anales_JCSA2021V2.pdf')}}">
                             
-                                    <div class="card-header text-center">
+                                    <div class="card-header pt-4 pb-4 text-center">
                                       
-                                           <strong>Actas</strong>
+                                           <strong >Actas </strong>
+                                           
                                       {{-- </br>
                                        <small class="text-muted"> (próximamente)</small> --}}
                                     </div>
