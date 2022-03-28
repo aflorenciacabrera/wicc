@@ -188,10 +188,13 @@
           </div>
           <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
             <div class="card-body">
-              <div class="col-md-12  ">
+              <div class="col-md-12 text-justify ">
                            
              {{--  --}}
              {{-- contenido 2  --}}
+<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/">EasyChair</a>.</p>
+<p>Los artículos pueden estar escritos en el idioma original en el cual hayan sido publicados. Deben indicarse los datos de la publicación (revista, congreso, etc)</p>
+
              {{--  --}}
                       </div>
             </div>
@@ -217,9 +220,27 @@
             </div>
             <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
               <div class="card-body">
-                <div class="col-md-12  ">
+                <div class="col-md-12 text-justify ">
                              {{-- contenido 3  --}}
-               
+                             <p>Se espera la presentación gráfica de trabajos de investigación en progreso o experiencias de enseñanza de las Ciencias de la Computación llevadas adelante en el contexto de un aula, una escuela, una red de instituciones o un sistema educativo. Se pretende que la elaboración del trabajo esté a cargo de las y los protagonistas de las acciones implementadas -docentes, equipos de conducción, supervisores, funcionarios o funcionarias educativos- o investigadores e investigadoras que hayan estudiado el caso.  
+                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/">EasyChair</a>.</p>
+                             <p>Formato:
+                                 <ul>
+                             <li>Lenguaje: español.</li>
+                             <li>Tamaño de papel: A3.</li>
+                             <li>Formato del archivo: PDF.</li>
+                             <li>El poster debe contener: (i) título del trabajo, (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; y (iii) palabras clave (máximo 5). 
+                                 <br>(*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. 
+                             </li>
+                                 </ul>
+
+                             
+                             </p>
+                             <p>Se espera que la visualización del póster describa en forma ágil y sencilla el trabajo presentado. A modo de ejemplo, a continuación, se muestra qué información se espera encontrar (al menos) en tres tipos de posters:
+                             <ul><li><b>Póster de Investigación</b>. Debe contener el problema y los objetivos de la investigación, la metodología y principales resultados o avances.</li>
+                             <li><b>Póster de caso</b>. Debe contener -los objetivos de la experiencia, el contexto de la implementación, descripción de destinatarios y participantes, contenidos abordados, herramientas utilizadas, aprendizajes alcanzados.</li>
+                             <li><b>Póster de presentación de una herramienta</b>. Debe contener el problema educativo que aborda la herramienta (aprendizaje, retención, rendimiento, acompañamiento, feedback, etc), la descripción de la herramienta y la descripción de cómo la herramienta mejora la situación educativa.</li>
+                             </p>
                     
                         </div>
               </div>
@@ -246,9 +267,27 @@
             </div>
             <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
               <div class="card-body">
-                <div class="col-md-12  ">
+                <div class="col-md-12  text-justify">
                              {{-- contenido 4  --}}
-
+                             <p>La propuesta de un taller de dos horas de duración como máximo, puede ser presentada por una persona o un equipo de personas y estar basada en una actividad probada o bien ser un diseño original. Las propuestas deberán enviarse antes del 01/07/2020 a través de GoogleForm.</p>
+                             <p>La propuesta deberá especificar:
+                             <ul><li>Los saberes que pone en juego</li>
+                             <li>Los objetivos a alcanzar</li>
+                             <li>Los destinatarios para el cual fue diseñado</li>
+                             <li>La o las herramientas y/o equipamientos e infraestructura requerida</li>
+                             <li>El enfoque didáctico en el que se fundamenta</li>
+                             <li>El modo en que se evalúan los aprendizajes alcanzados</li>
+                             </ul>
+                             Se espera una propuesta pedagógica de enseñanza de las Ciencias de la Computación centrada en el hacer, de una forma creativa y reflexiva y que aborde la enseñanza de cualesquiera de los siguientes saberes -sin que esta lista sea ni exhaustiva ni excluyente:
+                             <ul><li>Aquellos necesarios para poder formular soluciones efectivas y sistemáticas a diversos tipos de problemas: la algoritmia.</li>
+                             <li>Los conocimientos necesarios para poder volcar esas soluciones algorítmicas a los diversos lenguajes que utilizan las computadoras: la programación.</li>
+                             <li>Las formas de almacenar la información de manera que pueda ser recuperada y que se pueda buscar velozmente un dato entre miles o millones de otros: las estructuras de datos y las bases de datos.</li>
+                             <li>El entendimiento de los componentes que definen los distintos tipos de computadoras: las arquitecturas de computadoras. </li>
+                             <li>La forma en que las computadoras intercambian información: las redes de computadoras. </li>
+                             <li> El aprendizaje automático y la ciencia de datos (usualmente englobados bajo el término inteligencia artificial), que se ocupa de la combinación de varias de las áreas previamente mencionadas para abordar problemas muy complejos mediante mecanismos que tienen puntos en común con la cognición humana.</li>
+                             </ul>
+                             {{-- Más información en: https://jadicc2022.unne.edu.ar --}}
+                             
 
                              {{--  --}}
                
