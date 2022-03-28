@@ -83,7 +83,7 @@
         </div>
 
         <div class="col-md-10 text-center text-negro ">
-          <table class="table table-responsive">
+          <table class="table table-sm">
             <thead>
                 <th> Instancias</th>
                 <th>Artículos (originales y publicados)</th>
