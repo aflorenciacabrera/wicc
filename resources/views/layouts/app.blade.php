@@ -3,15 +3,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="IV Jornadas de Calidad de Software y Agilidad" />
-    <meta property="og:description" content="Las Jornadas de Calidad de Software y Agilidad (JCSA) inician en el año 2017 con la intención de difundir en la región del NEA avances y tendencias en Ingeniería de Software y propiciar un espacio de debate e intercambio donde interactúen universidades, sector público y sector empresarial vinculado a la industria del software." />
-<meta property="og:image" content="{{asset('image/redes.png')}}" />
+    <meta property="og:title" content="Jornadas Argentinas de Didáctica de las Ciencias de la Computación (JADiCC2022)" />
+    <meta property="og:description" content="Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de propiciar el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación." />
+{{-- <meta property="og:image" content="{{asset('image/redes.png')}}" /> --}}
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     {{-- <title>{{ config('app.name', 'Laravel') }}</title> --}}
-    <title>JCSA 2021</title>
+    <title>JADICC 2022</title>
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js" integrity="sha512-Tn2m0TIpgVyTzzvmxLNuqbSJH3JP8jm+Cy3hvHrW7ndTDcJ1w5mBiksqDBb8GpE2ksktFvDB/ykZ0mDpsZj20w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
