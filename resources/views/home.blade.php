@@ -2,13 +2,13 @@
 @extends('layouts.app')
 
 @section('content')
-<div id="flotante">
+{{-- <div id="flotante">
   <div class="card shadow">
     <a href="https://topia.io/gics-free-9tyznj1tz" target="_blank">
         <img src="{{asset('image/Topia.png')}}" alt="" class="w-100">
         </a>
   </div>
-</div>
+</div> --}}
 <div class="container-fluid">
     <div class="row">
         <div class="col-12 py-3"  id="portada" >
@@ -17,11 +17,9 @@
                     <div class="card shadow">
                     
                         <div class="card-header text-center">
-                            <h4>
-                                4ta. EDICIÓN 2021
-                            </h4>
-                           <h1> <strong>Jornadas de Calidad de Software y Agilidad </strong> </h1> <br>
-                           <h3 class="text-muted">12 y 13 de Noviembre, 2021 </h3>
+                           <h1> <strong>Jornadas Argentinas de Didáctica de las Ciencias de la Computación <br>(JADiCC2022)
+                        </strong> </h1> <br>
+                           <h3 class="text-muted">18, 19 y 20 de agosto de 2022</h3>
                            <br>
                            <h3 class="text-muted">Ciudad de Corrientes, Argentina</h3>
                            
@@ -31,64 +29,18 @@
             </div>
             <div class="row pt-1">
                 <div class="col-md-6 offset-md-3">
-                     <div class="row">
-                        <div class="col-md-4">
-                        <a class="card boton shadow text-gris" target="_blank" href="{{asset('doc/Cronograma_IVJCSA_v01.pdf')}}">
-                        
-                                <div class="card-header text-center">
-                                  
-                                       <strong>Descargá el Cronograma</strong>
-                                  {{-- </br>
-                                   <small class="text-muted"> (próximamente)</small> --}}
+                     {{-- <div class="row">
+                         <div class="col-md-4">
+                            <a class="card boton shadow text-gris" target="_blank" >
+                            
+                                <div class="card-header pt-4 pb-4 text-center">
+                                 
+                                   <small class="text-muted"> (próximamente)</small> 
                                 </div>
+                                
                             </a>
                          </div>
-                         <div class="col-md-4">
-                            <a class="card boton shadow text-gris" href="{{route('videos')}}">
-                            
-                                    <div class="card-header text-center">
-                                      
-                                           <strong>Videos de las Jornadas</strong>
-                                      {{-- </br>
-                                       <small class="text-muted"> (próximamente)</small> --}}
-                                    </div>
-                                </a>
-                             </div>
-                        {{-- <div class="col-md-4">
-                            <a class="card boton shadow text-gris" href="https://www.eventbrite.com.ar/e/iv-jornadas-de-calidad-de-software-y-agilidad-2021-tickets-193807151407">
-                        
-                                <div class="card-header text-center">
-                                  
-                                       <strong>Inscribite a las Jornadas</strong>
-                                           
-                               
-                                </div>
-                            </a>
-                         </div> --}}
-                         {{-- <div class="col-md-4">
-                            <div class="card botond shadow text-gris">
-                        
-                                <div class="card-header text-center">
-                                  
-                                      <strong>Inscripción<br> Cerrada</strong>
-                                 
-                                </div>
-                            </div>
-                         </div> --}}
-                         
-                         <div class="col-md-4">
-                            <a class="card boton shadow text-gris" target="_blank" href="{{asset('doc/Anales_JCSA2021V2.pdf')}}">
-                            
-                                    <div class="card-header pt-4 pb-4 text-center">
-                                      
-                                           <strong >Actas </strong>
-                                           
-                                      {{-- </br>
-                                       <small class="text-muted"> (próximamente)</small> --}}
-                                    </div>
-                                </a>
-                             </div>
-                     </div>
+                     </div> --}}
                 </div>
             </div>
         </div>
@@ -101,21 +53,21 @@
  
    <div class="row justify-content-between pt-2 text-center">
         <div class="col-md-10 offset-md-1">
-            <p><h2><strong> IV Jornadas de Calidad de Software y Agilidad </strong></h2></p>
+            <p><h2><strong>Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
               
 
-                  <div class="text-negro" >
-                    <p>Campus Virtual de FaCENA</p>
+                  <div class="text-negro text-justify" >
+                
 
                     
-
-                    <p>Las Jornadas de Calidad de Software y Agilidad (JCSA) inician en el año 2017, bajo el nombre original de Jornadas de Calidad de Software, con la intención de difundir avances significativos en el campo de la Ingeniería del Software y, en particular, conceptos, métodos y herramientas que contribuyan a la Calidad de Software. Brindando un foro común donde la industria del software y las universidades puedan intercambiar experiencias, exponer necesidades y fomentar acciones conjuntas en el área.</p>
+                    <p>Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de propiciar el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación.
+                    Se organizan anualmente desde el 2018 buscando promover el desarrollo de las Ciencias de la Computación en todos los niveles del sistema educativo argentino.</p>
+                    <p> Las primeras jornadas se orientaron a la Didáctica de la Programación (JaDiPro), pero desde la última edición (JADiCC) se ha ampliado el alcance abarcando otros contenidos de la disciplina, tales como los referidos a las arquitecturas de las computadoras, el funcionamiento de las redes informáticas y la inteligencia artificial, con el objetivo de que la incorporación de las Ciencias de la Computación en las distintas instancias educativas se lleve a cabo desde una perspectiva disciplinar amplia.
+                    Las jornadas comprenderán actividades diversas, como conferencias de especialistas, presentación de trabajos académicos en modalidad de artículos y posters, y dictado de talleres sobre temáticas de interés. 
+                    Las actividades se desarrollarán principalmente en modalidad PRESENCIAL. Las conferencias y algunos talleres se desarrollarán en modalidad VIRTUAL.
+                    </p>
+                    <p>El acceso a las actividades de las jornadas es GRATUITO.</p>
                     
-                    <p>En esta edición, las jornadas pretenden consolidarse como un foro regional de referencia, ampliando su espectro para enfatizar, también, temas relacionados al uso de la agilidad. Incorporando además, la recepción de trabajos científicos y experiencias industriales que serán incluidos, luego de un proceso de revisión, en actas de las jornadas.</p>
-                    
-                    <p>Durante el evento se realizarán talleres, conferencias y la presentación de experiencias en la Industria del Software, con la participación de integrantes de la Industria, Universidad y Estado.</p>
-
-                    <p>Las actividades propuestas están destinadas a ingenieros y licenciados en sistemas, estudiantes y docentes de estas especialidades, profesionales y empresarios del sector del software, así como también público interesado en el tema.</p>
                   </div>
         </div>
         
@@ -124,28 +76,62 @@
  
      {{-- ************************************************ --}}
      
-     <div class="row justify-content-between pt-3">
-        <div class="col-md-12  text-center text-gris ">
-            <p><h3> Presentación de Trabajos Académicos y Experiencias en la Industria</h3></p>
+     <div class="row justify-content-center pt-3">
+        <div class="col-md-10  text-center text-gris ">
+            
+            <p><h3> Fechas Importantes</h3></p>
         </div>
 
-        <div class="col-md-12 text-center text-negro">
-                <p>JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</p>
-
-                  
-                      {{-- <p>Se invita a la comunidad académica a presentar trabajos a las IV JCSA 2021, enviando artículos científicos/académicos o Experiencias en la Industria originales que se encuadren en las temáticas de la Jornada.</p> --}}
+        <div class="col-md-10 text-center text-negro ">
+          <table class="table table-responsive">
+            <thead>
+                <th> Instancias</th>
+                <th>Artículos (originales y publicados)</th>
+                <th>Posters</th>
+                <th>Talleres</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Presentación </td>
+                    <td>14/05/2022</td>
+                    <td>14/06/2022</td>
+                    <td>01/07/2022</td>
+                </tr>
+                <tr>
+                    <td>Notificación de aceptación</td>
+                    <td>10/07/2022</td>
+                    <td>10/07/2022</td>
+                    <td>15/07/2022</td>
+                </tr>
+                <tr>
+                    <td>Presentación de versión final</td>
+                    <td>31/07/2022</td>
+                    <td>31/07/2022</td>
+                    <td>31/07/2022</td>
+                </tr>
+            </tbody>
+          </table>
                   
         </div>
     </div>
-    
+    <div class="row justify-content-center pt-3">
+        <div class="col-md-10  text-center text-gris ">
+            
+            <p><h3> Modos de participación
+            </h3></p>
+        </div>
+    </div>
+    <div class="row justify-content-center pt-3">
+        <div class="col-md-10  text-center text-gris ">
     <div id="accordion">
         <div class="card">
           <div class="card text-left border-0" id="headingOne">
             <h5 class="mb-0">
-              <button class="btn azul collapsed btn-block text-gris" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <button class="btn azul collapsed btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
               
                     <strong class="text-gris">
-                       Llamado: Artículos científicos y póster&nbsp;
+                        1. Artículos Originales
+                        &nbsp;
                        <i class="fas fa-chevron-down"></i>
                     </strong>  
               </button>
@@ -154,49 +140,29 @@
       
           <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
             <div class="card-body">
-              <div class="col-md-12 ">
+              <div class="col-md-12 text-justify ">
                   {{--  --}}
-                  <p>Los autores deben enviar sus trabajos desde el siguiente enlace (es necesario tener una cuenta de EasyChair): <a href="https://easychair.org/conferences/?conf=jcs2021" target="_blank">aquí</a> </p>
-                  {{-- <p>Los autores deben enviar sus trabajos desde el siguiente enlace: <a href="https://docs.google.com/forms/d/e/1FAIpQLScMdHIrA58yGtmQil0DiBnqboUW9N2wpjCNqqFQquEQjtOzcQ/viewform" target="_blank">aquí</a> </p> --}}
-                  {{-- <p>Los autores deben enviar sus trabajos desde el siguiente enlace (es necesario tener una cuenta de EasyChair):<i> enlace en reparación hasta el 23 de septiembre</i></p> --}}
-                  {{--  --}}
-                  <ul class="">
-                      <li class="">Idioma: español o inglés.</li>
-                      <li class="">Máximo 10 páginas sin numerar. Sin encabezado y pie de página.</li>                               
-                  </ul>
-                  {{--  --}}
-                  <p> 
-                      En general todos los artículos pueden enviarse en WORD o PDF en el formato LNCS. 
-                      A continuación se añade la información, plantilla y ejemplo del formato en diferentes 
-                      editores de texto:
-                  </p>
-                  {{--  --}}
-                  <ul class="">
-                      <li class="">
-                          
-                     <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">LaTeX2e.zip</a>
-                      </li>
-                      <li class="">
-                          
-                     <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">Office2007.zip</a>
-                      </li>  
-                      <li class=""><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/7117506/data/v1">word-97-2003.zip</a></li>                             
-                  </ul>
-                  {{--  --}}
-                  <p> Se invitará a los autores de los trabajos aceptados a enviar un poster y audio explicativo para 
-                      su socialización durante las jornadas.</p> 
-      
-                  <p> Los trabajos aceptados serán presentados el viernes 12 de noviembre en modalidad virtual 
-                      en el marco de las IV Jornadas de Calidad de Software y Agilidad.</p> 
-      
-                  {{--  --}}
-                  <p class="text-center clarito"><strong>Fechas Importantes</strong></p>
-                  {{--  --}}
-                  <ul class="">
-                                      <li class=""></i>Cierre de Recepción de Artículos: 26 de septiembre</li>
-                                      <li class=""></i>Notificación de Aceptación a los Autores: 24 de octubre</li>  
-                                      <li class=""></i>Fecha Límite para Versión Final (camera ready) y envío del póster: 31 de octubre.</li>                             
-                                  </ul>
+                {{-- contenido 1  --}}
+                                    <p> Se esperan trabajos de investigaciones realizadas por un investigador o una investigadora, estudiantes de doctorado o un equipo sobre alguna de las temáticas de interés de las jornadas. Para su presentación enviar el trabajo antes del 14/05/2022 a través de EasyChair.
+                        Los artículos presentados para su evaluación deberán estar anonimizados.</p>
+                        <p>
+                            Formato:
+                        <ul>
+                            <li>Lenguaje: Español.</li>
+                                <li>Tamaño de papel: A4.</li>
+                                    <li>Extensión máxima: 14 páginas </li>
+                                        <li>Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
+                        </ul>
+                        Formato del texto:
+                        <ul>
+                        <li>Fuentes: Times New Roman 12 para el texto.</li>
+                        <li>Justificación a ambos márgenes.</li>
+                        <li> Páginas sin numerar.</li>
+                        <li>El texto debe incluir (i) título; (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; (iii) resumen; y (iv) palabras clave (máximo 5). 
+                        (*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. </li>
+                        <li>Presentación del documento en formato editable (WORD, RTF o similar).</li>
+                        <li>Las citas y referencias deben hacerse siguiendo las normas APA (https://normas-apa.org/referencias/).</li>
+                        </ul>
       
       </div>
             </div>
@@ -206,10 +172,11 @@
           <div class="card text-left  border-0" id="headingTwo">
             <h5 class="mb-0">
              
-                    <button class="btn collapsed azul btn-block text-gris" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <button class="btn collapsed azul btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       
                         <strong class="text-gris text-left">
-                            Llamado: Experiencias en la Industria del Software&nbsp;
+                            2. Trabajos publicados
+                            &nbsp;
                       
                             <i class="fas fa-chevron-down"></i>
                       
@@ -223,186 +190,85 @@
             <div class="card-body">
               <div class="col-md-12  ">
                            
-             
-                  <p>Las empresas o profesionales independientes deben enviar sus experiencias indicando 
-                      de forma resumida el contexto de una solución innovadora en el campo de la Industria del Software realizada en la región. </p>
-      
-                  <p>Los resúmenes aceptados contarán con un track especial en las IV Jornadas de Calidad de Software y 
-                      Agilidad a realizarse el viernes 12 de noviembre en modalidad virtual con un total de 15 minutos por Experiencia aceptada.</p>
-      
-                      <p>A continuación encontrará el enlace a la presentacción del trabajo</p>
-      
-                      <p>Presentación de Trabajos Experiencias en la Industria del Software para las IV JCSA 2021 <a href="https://forms.gle/LDLbdEHxVuVbQ2gGA" target="_blank">aquí</a></p>
-      
-                      <p class="text-center clarito"><strong>Fechas Importantes</strong></p>
-                  <div class="col"> 
-                      <ul class="">
-                          <li class=""> Recepción de Resúmenes: 18 de octubre</li>
-                          <li class=""> Aceptación: 31 de octubre</li>                                                              
-                      </ul>
-                  </div>                          
-              </p>
+             {{--  --}}
+             {{-- contenido 2  --}}
+             {{--  --}}
                       </div>
             </div>
           </div>
         </div>
+        {{--  --}}
+        <div class="card">
+            <div class="card text-left  border-0" id="headingTwo">
+              <h5 class="mb-0">
+               
+                      <button class="btn collapsed azul btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        
+                          <strong class="text-gris text-left">
+                             3. Posters
+                        
+                              <i class="fas fa-chevron-down"></i>
+                        
+                            </strong> 
+                        
+               
+              </button>
+              </h5>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+              <div class="card-body">
+                <div class="col-md-12  ">
+                             {{-- contenido 3  --}}
+               
+                    
+                        </div>
+              </div>
+            </div>
+          </div>
+          {{--  --}}
+          <div class="card">
+            <div class="card text-left  border-0" id="headingTwo">
+              <h5 class="mb-0">
+               
+                      <button class="btn collapsed azul btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        
+                          <strong class="text-gris text-left">
+                              4. Talleres
+                              &nbsp;
+                        
+                              <i class="fas fa-chevron-down"></i>
+                        
+                            </strong> 
+                        
+               
+              </button>
+              </h5>
+            </div>
+            <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+              <div class="card-body">
+                <div class="col-md-12  ">
+                             {{-- contenido 4  --}}
+
+
+                             {{--  --}}
+               
+                    
+                        </div>
+              </div>
+            </div>
+          </div>
        
       </div>
      
-    <div class="row justify-contente-between pt-3">
-        <div class="col-md-12 text-center  text-gris ">
-            <p><h3> Actas</h3></p>
-                {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
-        </div>
-        <div class="col-md-12 text-negro">
-           
 
-            
-                <p> Todos los artículos aceptados y presentados en las Jornadas se publicarán en las actas de las 
-                    Jornadas con ISBN incluido. El Libro de Actas estará disponible en el Repositorio Institucional 
-                    de la Universidad Nacional del Nordeste.</p>
-
-                <p>Les agradecemos la difusión del presente llamado y esperamos sus propuestas.</p>
-            
-        </div>
-
-    </div>
-    <hr>
-     {{-- ************************************************ --}}
-     <div class="row justify-content-between pt-3">
-        <div class="col-md-12 text-center  text-gris  ">
-            <p><h3> Ejes Temáticos</h3></p>
-                {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
-        </div>
-        <div class="col-md-6">
-            <ul class="list-group list-group-flush">
-                <li class=""> Calidad del Producto y Proceso de Software</li>
-                <li class=""> Calidad Interna y Externa del Software</li>  
-                <li class=""> Testing de Software</li> 
-                <li class=""> Verificación y Validación</li> 
-                <li class=""> Modelos y Métricas de Calidad de Software</li> 
-                <li class=""> Calidad de Datos</li> 
-                <li class=""> Calidad de Software Específica de Dominio: mobile, web, embebidos, 
-                    concurrentes, distribuidos, cloud, GUI y sistemas de tiempo real.</li>    
-                <li class=""> User Experience</li>
-                <li class=""> Diseño Centrado en el Usuario</li> 
-            
-            </ul>
-        </div>
-        <div class="col-md-6">
-            <ul class="list-group list-group-flush">
-                <li class=""> Herramientas, Aplicaciones Industriales y Estudios Empíricos</li>  
-                <li class=""> Anomalías de Código – Refactoring</li> 
-                <li class=""> Gestión de la Calidad de Software</li> 
-                <li class=""> Enseñanza de Calidad de Software</li>        
-                <li class=""> Métodos y Prácticas Ágiles</li>
-                <li class=""> Ingeniería del Software Continúa (Ejemplo: DevOps, Agile, etc)</li>
-                <li class=""> Ingeniería de Requisitos en Métodos Ágiles</li>
-                <li class=""> Peopleware y Management 3.0</li>
-                <li class=""> Estimación y Planificación Ágil</li>
-            </ul>
-        </div>
-               
-                    
-             
-        
-    </div>
-     {{-- ************************************************ --}}
-     <hr>
-     <div class="row justify-content-between pt-3">
-        <div class="col-md-12 text-center  text-gris ">
-            <p><h3> Comité Organizador</h3></p>
-                {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
-        </div>
-                <div class="col-md-6"> 
-                    <ul class="list-group list-group-flush">
-                        <li class=""> Mgter. Gladys Noemí Dapozo (FaCENA - UNNE)</li>
-                        <li class=""> Dr. Emanuel Irrazábal (FaCENA - UNNE)</li>  
-                        <li class=""> Lic. María de los Ángeles Ferraro (FaCENA - UNNE)</li> 
-                        <li class=""> Dr. Horacio D. Kuna (FQCEyN - UNaM)</li> 
-                        <li class=""> Dr. Eduardo Zamudio (FQCEyN - UNaM)</li> 
-                       
-                                                                             
-                    </ul>
-                </div>   
-                <div class="col-md-6"> 
-                    <ul class="list-group list-group-flush">
-                    
-                        <li class=""> Ing. Alice Rambo (FQCEyN - UNaM)</li> 
-                        <li class=""> Dr. César Acuña (FRRe - UTN)</li>
-                        <li class=""> Dra. Verónica Bollati (FRRe - UTN)</li>    
-                        <li class=""> Dra. Noelia Pinto (FRRe - UTN)</li> 
-                                                                             
-                    </ul>
-                </div>   
-
-    </div>
-    <hr>
+      {{--  --}}
+        </div></div>
     
-    <div class="row justify-content-between pt-3 pb-5">
-        <div class="col-md-12 text-center  text-gris ">
-            <p><h3> Comité de Programa</h3></p>
-                {{-- <p><h4 class="text-muted">JCSA 2021 – 1º Llamado a Presentación de trabajos. CFP – FaCENA - UNNE.</h4></p> --}}
-        </div>
-        <div class="col-md-6">
-                    
-            <ul class="list-group list-group-flush">
-                <li  class=""> Mgter. Cristina Greiner (GICS - FaCENA - UNNE)</li>
-                <li  class=""> Mgter. Gladys Noemí Dapozo (GICS - FaCENA - UNNE)</li>
-                <li  class=""> Dr. Emanuel Irrazábal (GICS - FaCENA - UNNE)</li>
-                <li  class=""> Dr. Rubén Bernal (GICS - FaCENA - UNNE)</li>
-                <li  class=""> Dr. David la Red Martínez (FaCENA - UNNE)</li>
-                <li  class=""> Dra. Sonia Mariño (FaCENA - UNNE)</li>
-                <li  class=""> Mgter. María Viviana Godoy Guglielmone (FaCENA - UNNE)</li>
-                <li  class=""> Mgter. Mónica Tugnarelli (FCAD - UNER)</li>
-                <li  class=""> Dra. Gabriela Arévalo (DCyT - UNQ)</li>
-                <li  class=""> Dra. María Fernanda Golobisky (UTN - FRStaFe)</li>
-                <li  class=""> Master Ariel Pasini (LIDI - UNLP)</li>
-                <li  class=""> Mgter. Pablo Thomas (LIDI - UNLP)</li>
-                <li  class=""> Dr. Fernando Emmanuel Frati (DCByT - UNdeC)</li>
-                <li  class=""> Dra. Marcela Genero Bocco (Grupo Alarcos - UCLM)</li>
-                <li  class=""> Dr. Jorge Andrés Diaz Pace (ISISTAN - CONICET)</li>
-                <li  class=""> Dr. Nazareno Aguirre (FCEFQyN - UNRC / CONICET)</li>
-                <li  class=""> Dra. Nancy Ganz (IIDII-FCEQyN - UNaM)</li>
-                <li  class=""> Esp.Ing.Alice Rambo (IIDII-FCEQyN - UNaM)</li>
-                <li  class=""> Ing. Selva Nieves Ivaniszyn (FCEQyN - UNaM)</li>
-                <li  class=""> Lic. Sergio Caballero (FCEQyN - UNaM)</li>
-                <li  class=""> Lic. Martín Rey (IIDII-FCEQyN - UNaM)</li>
-                <li  class=""> Dr.Eduardo Zamudio (IIDII - FCEQyN - UNaM)</li>
-                <li  class=""> Dr.Horacio Kuna (IIDII - FCEQyN - UNaM)</li>
-            </ul>
-        
-    </div>
-    <div class="col-md-6">
-        <ul class="list-group list-group-flush">
-            <li class=""> Dr. Diego Godoy (UGD)</li>
-            <li class=""> Ing. Edgardo Belloni (UGD)</li>
-            <li class=""> Mag. Liliana Cuenca Pletsch (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Dr. César J. Acuña (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Dra. Verónica Bollati (CINApTIC - UTN - FRRe / CONICET)</li>
-            <li class=""> Dra. Noelia Pinto (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Esp. Gabriela Tomaselli (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Ing. Nicolas Tortosa (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Ing. Valeria Sandobal Verón (GIESIN- UTN - FRRe)</li>
-            <li class=""> Ing. Germán Gaona (CINApTIC - UTN - FRRe)</li>
-            <li class=""> Dr. Horacio Leone (INGAR - UTN - FRSF)</li>
-            <li class=""> Dr. Silvio Gonnet (INGAR - UTN - FRSF)</li>
-            <li class=""> Dr. Gustavo Rossi (LIFIA - UNLP)</li>
-            <li class=""> Dra. Alejandra Garrido (LIFIA - UNLP)</li>
-            <li class=""> Dr. Andrés Rodriguez (LIFIA - UNLP)</li>
-            <li class=""> Dr. Marcelo Estayno (UNSAM)</li>
-            <li class=""> Dr. Luis Olsina (GIDIS - UNLPam)</li>
-            <li class=""> Dra. Luciana Ballejos ((CIDISI - UTN - FRSF)</li>
-            <li class=""> Dra. Luciana Roldan (INGAR - UTN - FRSF)</li>
-            <li class=""> Dra. Milagros Gutierrez (UTN - FRSF)</li>
-            <li class=""> Dra. Mariel Alejandra Ale ((CIDISI - UTN - FRSF)</li>
-            <li class=""> Dra. Elsa Estevez (UNSur / CONICET)</li>
-            <li class=""> Dra. Alicia Mon (UNLaM)</li>          
-        </ul>
-    </div>
-            
-                                       
-        </div>
+   
+    
+    
+    
+    
         
     </div>
 </div>
