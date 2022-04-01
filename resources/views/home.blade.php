@@ -16,12 +16,12 @@
                 <div class="col-md-6 offset-md-3">
                     <div class="card shadow">
                     
-                        <div class="card-header text-center">
+                        <div class="card-header text-center text-verde">
                            <h1> <strong>Jornadas Argentinas de Didáctica de las Ciencias de la Computación <br>(JADiCC2022)
                         </strong> </h1> <br>
-                           <h3 class="text-muted">18, 19 y 20 de agosto de 2022</h3>
+                           <h3 class="text-verde">18, 19 y 20 de agosto de 2022</h3>
                            <br>
-                           <h3 class="text-muted">Ciudad de Corrientes, Argentina</h3>
+                           <h3 class="text-verde">Ciudad de Corrientes, Argentina</h3>
                            
                         </div>
                     </div>
@@ -31,7 +31,7 @@
                 <div class="col-md-6 offset-md-3">
                      {{-- <div class="row">
                          <div class="col-md-4">
-                            <a class="card boton shadow text-gris" target="_blank" >
+                            <a class="card boton shadow " target="_blank" >
                             
                                 <div class="card-header pt-4 pb-4 text-center">
                                  
@@ -53,83 +53,83 @@
  
    <div class="row justify-content-between pt-2 text-center">
         <div class="col-md-10 offset-md-1">
-            <p><h2><strong>Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
+            <p ><h2><strong class="text-verde">Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
               
 
-                  <div class="text-negro text-justify" >
+                  <div class="text-negro text-justify" style="font-size: 1.2em" >
                 
 
                     
-                    <p>Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de propiciar el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación.
+                   <p>Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de propiciar el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación.
                     Se organizan anualmente desde el 2018 buscando promover el desarrollo de las Ciencias de la Computación en todos los niveles del sistema educativo argentino.</p>
                     <p> Las primeras jornadas se orientaron a la Didáctica de la Programación (JaDiPro), pero desde la última edición (JADiCC) se ha ampliado el alcance abarcando otros contenidos de la disciplina, tales como los referidos a las arquitecturas de las computadoras, el funcionamiento de las redes informáticas y la inteligencia artificial, con el objetivo de que la incorporación de las Ciencias de la Computación en las distintas instancias educativas se lleve a cabo desde una perspectiva disciplinar amplia.
                     Las jornadas comprenderán actividades diversas, como conferencias de especialistas, presentación de trabajos académicos en modalidad de artículos y posters, y dictado de talleres sobre temáticas de interés. 
-                    Las actividades se desarrollarán principalmente en modalidad PRESENCIAL. Las conferencias y algunos talleres se desarrollarán en modalidad VIRTUAL.
+                    Las actividades se desarrollarán principalmente en modalidad <b>PRESENCIAL</b>. Las conferencias y algunos talleres se desarrollarán en modalidad VIRTUAL.
                     </p>
-                    <p>El acceso a las actividades de las jornadas es GRATUITO.</p>
+                    <p>El acceso a las actividades de las jornadas es <b>GRATUITO</b>.</p>
                     
                   </div>
         </div>
         
     </div>
-    <hr>
+    <hr class="hr">
  
      {{-- ************************************************ --}}
      
      <div class="row justify-content-center pt-3">
-        <div class="col-md-10  text-center text-gris ">
+        <div class="col-md-10  text-center ">
             
-            <p><h3> Fechas Importantes</h3></p>
+            <p ><h2><strong class="text-verde">Fechas Importantes </strong></h2></p>
         </div>
 
         <div class="col-md-10 text-center text-negro ">
-          <table class="table table-sm">
-            <thead>
+          <table id="tabla" class="table table-sm">
+            <thead class="text-center verde" >
                 <th> Instancias</th>
                 <th>Artículos (originales y publicados)</th>
                 <th>Posters</th>
                 <th>Talleres</th>
             </thead>
-            <tbody>
+            <tbody >
                 <tr>
-                    <td>Presentación </td>
-                    <td>14/05/2022</td>
-                    <td>14/06/2022</td>
-                    <td>01/07/2022</td>
+                    <td><b>Presentación </b></td>
+                    <td class="text-center">14/05/2022</td>
+                    <td class="text-center">14/06/2022</td>
+                    <td class="text-center">01/07/2022</td>
                 </tr>
                 <tr>
-                    <td>Notificación de aceptación</td>
-                    <td>10/07/2022</td>
-                    <td>10/07/2022</td>
-                    <td>15/07/2022</td>
+                    <td><b>Notificación de aceptación</b></td>
+                    <td class="text-center">10/07/2022</td>
+                    <td class="text-center">10/07/2022</td>
+                    <td class="text-center">15/07/2022</td>
                 </tr>
                 <tr>
-                    <td>Presentación de versión final</td>
-                    <td>31/07/2022</td>
-                    <td>31/07/2022</td>
-                    <td>31/07/2022</td>
+                    <td><b>Presentación de versión final</b></td>
+                    <td class="text-center">31/07/2022</td>
+                    <td class="text-center">31/07/2022</td>
+                    <td class="text-center">31/07/2022</td>
                 </tr>
             </tbody>
           </table>
                   
         </div>
     </div>
+     <hr class="hr">
     <div class="row justify-content-center pt-3">
-        <div class="col-md-10  text-center text-gris ">
+        <div class="col-md-10  text-center  ">
+              <p ><h2><strong class="text-verde">Modos de participación</strong></h2></p>
             
-            <p><h3> Modos de participación
-            </h3></p>
         </div>
     </div>
     <div class="row justify-content-center pt-3">
-        <div class="col-md-10  text-center text-gris ">
+        <div class="col-md-10  text-center ">
     <div id="accordion">
         <div class="card">
           <div class="card text-left border-0" id="headingOne">
             <h5 class="mb-0">
-              <button class="btn azul collapsed btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <button class="btn verde collapsed btn-block text-left" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
               
-                    <strong class="text-gris">
+                    <strong class="" style="font-size:1.2em">
                         1. Artículos Originales
                         &nbsp;
                        <i class="fas fa-chevron-down"></i>
@@ -139,21 +139,21 @@
           </div>
       
           <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
-            <div class="card-body">
-              <div class="col-md-12 text-justify ">
+            <div class="card-body card-jadicc text-negro">
+              <div class="col-md-12 text-justify " style="font-size:1.2em">
                   {{--  --}}
                 {{-- contenido 1  --}}
                                     <p> Se esperan trabajos de investigaciones realizadas por un investigador o una investigadora, estudiantes de doctorado o un equipo sobre alguna de las temáticas de interés de las jornadas. Para su presentación enviar el trabajo antes del 14/05/2022 a través de EasyChair.
                         Los artículos presentados para su evaluación deberán estar anonimizados.</p>
                         <p>
-                            Formato:
+                           <b> Formato:</b>
                         <ul>
                             <li>Lenguaje: Español.</li>
                                 <li>Tamaño de papel: A4.</li>
                                     <li>Extensión máxima: 14 páginas </li>
                                         <li>Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
                         </ul>
-                        Formato del texto:
+                        <b>Formato del texto:</b>
                         <ul>
                         <li>Fuentes: Times New Roman 12 para el texto.</li>
                         <li>Justificación a ambos márgenes.</li>
@@ -172,9 +172,9 @@
           <div class="card text-left  border-0" id="headingTwo">
             <h5 class="mb-0">
              
-                    <button class="btn collapsed azul btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       
-                        <strong class="text-gris text-left">
+                        <strong class="text-left" style="font-size:1.2em">
                             2. Trabajos publicados
                             &nbsp;
                       
@@ -187,12 +187,12 @@
             </h5>
           </div>
           <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-            <div class="card-body">
-              <div class="col-md-12 text-justify ">
+            <div class="card-body card-jadicc text-negro">
+              <div class="col-md-12 text-justify " style="font-size:1.2em">
                            
              {{--  --}}
              {{-- contenido 2  --}}
-<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/">EasyChair</a>.</p>
+<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/" class="text-verde">EasyChair</a>.</p>
 <p>Los artículos pueden estar escritos en el idioma original en el cual hayan sido publicados. Deben indicarse los datos de la publicación (revista, congreso, etc)</p>
 
              {{--  --}}
@@ -205,9 +205,9 @@
             <div class="card text-left  border-0" id="headingTwo">
               <h5 class="mb-0">
                
-                      <button class="btn collapsed azul btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                         
-                          <strong class="text-gris text-left">
+                          <strong class="text-left" style="font-size:1.2em">
                              3. Posters
                         
                               <i class="fas fa-chevron-down"></i>
@@ -219,12 +219,12 @@
               </h5>
             </div>
             <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-              <div class="card-body">
-                <div class="col-md-12 text-justify ">
+              <div class="card-body card-jadicc text-negro">
+                <div class="col-md-12 text-justify " style="font-size:1.2em">
                              {{-- contenido 3  --}}
                              <p>Se espera la presentación gráfica de trabajos de investigación en progreso o experiencias de enseñanza de las Ciencias de la Computación llevadas adelante en el contexto de un aula, una escuela, una red de instituciones o un sistema educativo. Se pretende que la elaboración del trabajo esté a cargo de las y los protagonistas de las acciones implementadas -docentes, equipos de conducción, supervisores, funcionarios o funcionarias educativos- o investigadores e investigadoras que hayan estudiado el caso.  
-                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/">EasyChair</a>.</p>
-                             <p>Formato:
+                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/" class="text-verde">EasyChair</a>.</p>
+                             <p><b>Formato:</b>
                                  <ul>
                              <li>Lenguaje: español.</li>
                              <li>Tamaño de papel: A3.</li>
@@ -251,9 +251,9 @@
             <div class="card text-left  border-0" id="headingTwo">
               <h5 class="mb-0">
                
-                      <button class="btn collapsed azul btn-block text-gris text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                      <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                         
-                          <strong class="text-gris text-left">
+                          <strong class="text-left" style="font-size:1.2em">
                               4. Talleres
                               &nbsp;
                         
@@ -266,11 +266,11 @@
               </h5>
             </div>
             <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-              <div class="card-body">
-                <div class="col-md-12  text-justify">
+              <div class="card-body card-jadicc text-negro">
+                <div class="col-md-12  text-justify" style="font-size:1.2em"> 
                              {{-- contenido 4  --}}
                              <p>La propuesta de un taller de dos horas de duración como máximo, puede ser presentada por una persona o un equipo de personas y estar basada en una actividad probada o bien ser un diseño original. Las propuestas deberán enviarse antes del 01/07/2020 a través de GoogleForm.</p>
-                             <p>La propuesta deberá especificar:
+                             <p><b>La propuesta deberá especificar:</b>
                              <ul><li>Los saberes que pone en juego</li>
                              <li>Los objetivos a alcanzar</li>
                              <li>Los destinatarios para el cual fue diseñado</li>
@@ -314,8 +314,31 @@
 @endsection
 
 <style>
+
+
+    #tabla{
+        border: 2px solid yellowgreen;
+    }
+    th,td{
+        border: 2px solid yellowgreen;
+    }
+    th{
+        text-align: center;
+    }
+
+    
+
+    .hr{
+        border: 1px solid greenyellow;
+    }
+
+    .container, .container-fluid, .card-jadicc{
+        background-color: #7777f0;
+    }
+
     body{
         font-family: 'Poppins' !important;
+       
     }
     .text-muted{
         color: gray;
@@ -325,17 +348,30 @@
         
         background-image: url({{asset('image/ctes_4.png')}});
     }
+    
+   ul {
+  list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #c7fb02; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
 
     #portada .card{
-        background-color:  rgb(255 255 255 / 70%);
+        background-color:  rgb(90 90 90 / 30%);
     }
 
     #portada .botond{
-        background-color:  rgb(255 255 255 / 70%);
+        background-color:  rgb(90 90 90 / 30%);
         color:rgb(53, 52, 52);
     }
     #portada .botond:hover{
-        background-color:  rgb(255 255 255 / 100%);
+        background-color:  rgb(90 90 90 / 100%);
     }
     #portada .boton{
         background-color:  rgb(162 237 85 / 80%);
@@ -391,13 +427,16 @@
 
     }
 
-    .text-gris{
+    .{
 
         color:rgb(53, 52, 52);
     }
 
     .text-negro{
         color: #212529
+    }
+      .text-verde{
+        color: #c7fb02
     }
 
     /* #333953  azul oscuro 
@@ -417,6 +456,11 @@
     #flotante:hover{
         width: 110px;
    height: 110px;
+    }
+
+    .verde{
+        background-color: #c7fb02 !important;
+        color: black;
     }
 
 

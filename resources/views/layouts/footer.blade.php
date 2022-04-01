@@ -3,65 +3,7 @@
 <section>
 <!--footer starts from here-->
 <footer class="footer ">
-			<div class="container bottom_border">
-			<div class="row">
-			{{-- <div class=" col-sm-4 col-md col-sm-4  col-12 col">
-			<h5 class="headin5_amrc col_white_amrc pt2"></h5>
-			<!--headin5_amrc-->
-			<p class="mb10"></p>
-			<p>  </p>
-			<p>  </p>
-			<p>   </p>
-
-
-			</div> --}}
-
-
-			<div class=" col-sm-4 col-md  col-6 col">
-			{{-- <h5 class="headin5_amrc col_white_amrc pt2"></h5>
-			<!--headin5_amrc-->
-			<ul class="footer_ul_amrc">
-			{{-- <li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			</ul>  --}}
-			<!--footer_ul_amrc ends here-->
-			</div>
-
-
-			<div class=" col-sm-4 col-md  col-6 col">
-			{{-- <h5 class="headin5_amrc col_white_amrc pt2"></h5>
-			<!--headin5_amrc-->
-			<ul class="footer_ul_amrc">
-			{{-- <li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li>
-			<li><a href="http://webenlance.com"></a></li> 
-			</ul> --}}
-			<!--footer_ul_amrc ends here-->
-			</div>
-
-
-			<div class=" col-sm-4 col-md  col-12 col">
-			{{-- <h5 class="headin5_amrc col_white_amrc pt2"></h5>
-			<!--headin5_amrc ends here-->
-
-			<ul class="footer_ul2_amrc">
-			<li><a href="#"><a href="#"></a></p></li>
-			<li><a href="#"><a href="#"></a></p></li>
-			<li><a href="#"><a href="#"></a></p></li>
-			</ul> --}}
-			<!--footer_ul2_amrc ends here-->
-			</div>
-			</div>
-			</div>
-
-
+ <hr class="hr">			
 <div class="container">
 <ul class="foote_bottom_ul_amrc">
 <li><a href=""></a></li>
@@ -95,7 +37,7 @@
 section{
     /* padding-top: 98px; */
 }
-footer { width:100%; background-color:#263238; min-height:100px; padding:10px 0px 25px 0px ; background-size: cover;
+footer { width:100%; background-color:#7777f0; min-height:100px; padding:10px 0px 25px 0px ; background-size: cover;
            background-position-y:bottom; }
 .pt2 { padding-top:40px ; margin-bottom:20px ;}
 footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}

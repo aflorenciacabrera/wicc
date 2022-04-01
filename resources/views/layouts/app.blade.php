@@ -94,7 +94,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 offset-md-3">
                     <div class="col-md-12 col-12 text-center">
-                        {{-- <img src="{{asset('image/logos.png')}}" class="w-100 w-md-75" alt=""> --}}
+                        <img src="{{asset('image/logos.png')}}" class="w-100 w-md-75" alt="">
                     </div>
                 </div>
             </div>
@@ -144,5 +144,10 @@
         @yield('script')
     </div>
 </body>
-
+<style>
+main
+{
+    background-color: #7777f0;
+}
+</style>
 </html>
