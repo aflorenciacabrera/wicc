@@ -4,7 +4,7 @@
 <!--footer starts from here-->
 <footer class="footer ">
  <hr class="hr">			
-<div class="container">
+<div class="container" style="background-color:#7777f0">
 <ul class="foote_bottom_ul_amrc">
 <li><a href=""></a></li>
 <li><a href=""></a></li>

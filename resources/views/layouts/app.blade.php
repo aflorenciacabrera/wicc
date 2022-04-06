@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Jornadas Argentinas de Didáctica de las Ciencias de la Computación (JADiCC2022)" />
     <meta property="og:description" content="Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de propiciar el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación." />
-{{-- <meta property="og:image" content="{{asset('image/redes.png')}}" /> --}}
+<meta property="og:image" content="{{asset('image/redes.png')}}" />
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -90,7 +90,7 @@
 
 <!-- Image and text -->
 
-        <div class="container-fluid">
+        <div class="container-fluid" style="background-color:#7777f0">
             <div class="row">
                 <div class="col-12 col-md-6 offset-md-3">
                     <div class="col-md-12 col-12 text-center">
@@ -148,7 +148,9 @@
 main
 {
     background-color: #7777f0;
-    background-image: url('{{asset("im")}}')
+    background-image: url("{{asset('image/waves.png')}}");
+      background-repeat: repeat-y;
+      background-size: 20%;
 }
 </style>
 </html>

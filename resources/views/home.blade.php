@@ -47,7 +47,7 @@
     </div>
 
 </div>
-<div class="container" id="central" style="background-color:#ffffffe3;">
+<div class="container" id="central" style="background-color:#f0f0fd;">
 
    
  
@@ -298,6 +298,11 @@
           </div>
        
       </div>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+
      
 
       {{--  --}}
@@ -333,7 +338,7 @@
     }
 
     .container, .container-fluid, .card-jadicc{
-        background-color: #7777f0;
+        background-color: #f0f0fd;
         /* background-color: red; */
     }
 
@@ -356,7 +361,7 @@
 
 ul li::before {
   content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #c7fb02; /* Change the color */
+  color: #7777f0; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
