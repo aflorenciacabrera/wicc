@@ -47,13 +47,13 @@
     </div>
 
 </div>
-<div class="container">
+<div class="container" id="central" style="background-color:#ffffffe3;">
 
    
  
    <div class="row justify-content-between pt-2 text-center">
         <div class="col-md-10 offset-md-1">
-            <p ><h2><strong class="text-verde">Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
+            <p ><h2><strong class="text-morado">Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
               
 
                   <div class="text-negro text-justify" style="font-size: 1.2em" >
@@ -79,7 +79,7 @@
      <div class="row justify-content-center pt-3">
         <div class="col-md-10  text-center ">
             
-            <p ><h2><strong class="text-verde">Fechas Importantes </strong></h2></p>
+            <p ><h2><strong class="text-morado">Fechas Importantes </strong></h2></p>
         </div>
 
         <div class="col-md-10 text-center text-negro ">
@@ -117,7 +117,7 @@
      <hr class="hr">
     <div class="row justify-content-center pt-3">
         <div class="col-md-10  text-center  ">
-              <p ><h2><strong class="text-verde">Modos de participación</strong></h2></p>
+              <p ><h2><strong class="text-morado">Modos de participación</strong></h2></p>
             
         </div>
     </div>
@@ -192,7 +192,7 @@
                            
              {{--  --}}
              {{-- contenido 2  --}}
-<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/" class="text-verde">EasyChair</a>.</p>
+<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/" class="text-morado">EasyChair</a>.</p>
 <p>Los artículos pueden estar escritos en el idioma original en el cual hayan sido publicados. Deben indicarse los datos de la publicación (revista, congreso, etc)</p>
 
              {{--  --}}
@@ -223,7 +223,7 @@
                 <div class="col-md-12 text-justify " style="font-size:1.2em">
                              {{-- contenido 3  --}}
                              <p>Se espera la presentación gráfica de trabajos de investigación en progreso o experiencias de enseñanza de las Ciencias de la Computación llevadas adelante en el contexto de un aula, una escuela, una red de instituciones o un sistema educativo. Se pretende que la elaboración del trabajo esté a cargo de las y los protagonistas de las acciones implementadas -docentes, equipos de conducción, supervisores, funcionarios o funcionarias educativos- o investigadores e investigadoras que hayan estudiado el caso.  
-                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/" class="text-verde">EasyChair</a>.</p>
+                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/" class="text-morado">EasyChair</a>.</p>
                              <p><b>Formato:</b>
                                  <ul>
                              <li>Lenguaje: español.</li>
@@ -334,6 +334,7 @@
 
     .container, .container-fluid, .card-jadicc{
         background-color: #7777f0;
+        /* background-color: red; */
     }
 
     body{
@@ -427,16 +428,16 @@ ul li::before {
 
     }
 
-    .{
+    .text-verde{
 
-        color:rgb(53, 52, 52);
+        color:#c7fb02;
     }
 
     .text-negro{
         color: #212529
     }
-      .text-verde{
-        color: #c7fb02
+      .text-morado{
+        color: #7777f0
     }
 
     /* #333953  azul oscuro 

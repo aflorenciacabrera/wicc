@@ -148,6 +148,7 @@
 main
 {
     background-color: #7777f0;
+    background-image: url('{{asset("im")}}')
 }
 </style>
 </html>
