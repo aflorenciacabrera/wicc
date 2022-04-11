@@ -60,7 +60,7 @@
                 
 
                     
-                   <p>Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de propiciar el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación.
+                   <p>Estas jornadas, propiciadas por la Iniciativa Program.AR de la Fundación Sadosky, tienen la finalidad de favorecer el encuentro de investigadores, investigadoras, docentes, estudiantes, funcionarios y funcionarias públicas que lleven adelante proyectos de investigación o de intervención educativa en la enseñanza de las Ciencias de la Computación.
                     Se organizan anualmente desde el 2018 buscando promover el desarrollo de las Ciencias de la Computación en todos los niveles del sistema educativo argentino.</p>
                     <p> Las primeras jornadas se orientaron a la Didáctica de la Programación (JaDiPro), pero desde la última edición (JADiCC) se ha ampliado el alcance abarcando otros contenidos de la disciplina, tales como los referidos a las arquitecturas de las computadoras, el funcionamiento de las redes informáticas y la inteligencia artificial, con el objetivo de que la incorporación de las Ciencias de la Computación en las distintas instancias educativas se lleve a cabo desde una perspectiva disciplinar amplia.
                     Las jornadas comprenderán actividades diversas, como conferencias de especialistas, presentación de trabajos académicos en modalidad de artículos y posters, y dictado de talleres sobre temáticas de interés. 
@@ -75,11 +75,22 @@
     <hr class="hr">
  
      {{-- ************************************************ --}}
-     
      <div class="row justify-content-center pt-3">
         <div class="col-md-10  text-center ">
             
-            <p ><h2><strong class="text-morado">Fechas Importantes </strong></h2></p>
+            <p ><h2><strong class="text-morado">Ediciones anteriores</strong></h2></p>
+            <p><h4><a href="https://jadipro.unq.edu.ar/">JaDiPro 2018 (Universidad Nacional de Quilmes)</a></h4></p>
+<p><h4><a href="https://jadipro.unc.edu.ar/">JaDiPro 2019 (Universidad Nacional de Córdoba)</a></h4></p>
+<p><h4><a href="https://jadicc.program.ar/">JADiCC 2021 (Fundación Sadosky)</a></h4></p>
+        </div>
+     </div>
+     <hr class="hr">
+     {{-- ----------******************** --}}
+     <div class="row justify-content-center pt-3">
+        <div class="col-md-10  text-center ">
+            
+            <p ><h2><strong class="text-morado">Plazos para el envío de propuestas y notificación de
+                aceptación y presentación final</strong></h2></p>
         </div>
 
         <div class="col-md-10 text-center text-negro ">
@@ -111,6 +122,11 @@
                 </tr>
             </tbody>
           </table>
+        
+            
+            <p ><h4>El envío de propuestas estará disponible desde el 12 de
+                abril de 2022</h4></p>
+        
                   
         </div>
     </div>
@@ -192,7 +208,7 @@
                            
              {{--  --}}
              {{-- contenido 2  --}}
-<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/" class="text-morado">EasyChair</a>.</p>
+<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022" class="text-morado">EasyChair.</a><label for="" class="text-muted">(Es necesario crear un usuario en la plataforma Easychear para el envio)</label>.</p>
 <p>Los artículos pueden estar escritos en el idioma original en el cual hayan sido publicados. Deben indicarse los datos de la publicación (revista, congreso, etc)</p>
 
              {{--  --}}
@@ -223,7 +239,7 @@
                 <div class="col-md-12 text-justify " style="font-size:1.2em">
                              {{-- contenido 3  --}}
                              <p>Se espera la presentación gráfica de trabajos de investigación en progreso o experiencias de enseñanza de las Ciencias de la Computación llevadas adelante en el contexto de un aula, una escuela, una red de instituciones o un sistema educativo. Se pretende que la elaboración del trabajo esté a cargo de las y los protagonistas de las acciones implementadas -docentes, equipos de conducción, supervisores, funcionarios o funcionarias educativos- o investigadores e investigadoras que hayan estudiado el caso.  
-                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/" class="text-morado">EasyChair</a>.</p>
+                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a><label for="" class="text-muted"><label for="" class="text-muted">(Es necesario crear un usuario en la plataforma Easychear para el envio)</label>.</label></p>
                              <p><b>Formato:</b>
                                  <ul>
                              <li>Lenguaje: español.</li>
@@ -238,7 +254,7 @@
                              </p>
                              <p>Se espera que la visualización del póster describa en forma ágil y sencilla el trabajo presentado. A modo de ejemplo, a continuación, se muestra qué información se espera encontrar (al menos) en tres tipos de posters:
                              <ul><li><b>Póster de Investigación</b>. Debe contener el problema y los objetivos de la investigación, la metodología y principales resultados o avances.</li>
-                             <li><b>Póster de caso</b>. Debe contener -los objetivos de la experiencia, el contexto de la implementación, descripción de destinatarios y participantes, contenidos abordados, herramientas utilizadas, aprendizajes alcanzados.</li>
+                             <li><b>Póster de caso</b>. Debe contener los objetivos de la experiencia, el contexto de la implementación, descripción de destinatarios y participantes, contenidos abordados, herramientas utilizadas, aprendizajes alcanzados.</li>
                              <li><b>Póster de presentación de una herramienta</b>. Debe contener el problema educativo que aborda la herramienta (aprendizaje, retención, rendimiento, acompañamiento, feedback, etc), la descripción de la herramienta y la descripción de cómo la herramienta mejora la situación educativa.</li>
                              </p>
                     
@@ -284,7 +300,7 @@
                              <li>Las formas de almacenar la información de manera que pueda ser recuperada y que se pueda buscar velozmente un dato entre miles o millones de otros: las estructuras de datos y las bases de datos.</li>
                              <li>El entendimiento de los componentes que definen los distintos tipos de computadoras: las arquitecturas de computadoras. </li>
                              <li>La forma en que las computadoras intercambian información: las redes de computadoras. </li>
-                             <li> El aprendizaje automático y la ciencia de datos (usualmente englobados bajo el término inteligencia artificial), que se ocupa de la combinación de varias de las áreas previamente mencionadas para abordar problemas muy complejos mediante mecanismos que tienen puntos en común con la cognición humana.</li>
+                             <li>El aprendizaje automático y la ciencia de datos (usualmente englobados bajo el término inteligencia artificial), que se ocupa de la combinación de varias de las áreas previamente mencionadas para abordar problemas muy complejos mediante mecanismos que tienen puntos en común con la cognición humana.</li>
                              </ul>
                              {{-- Más información en: https://jadicc2022.unne.edu.ar --}}
                              
