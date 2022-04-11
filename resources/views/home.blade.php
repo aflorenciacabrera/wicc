@@ -208,7 +208,7 @@
                            
              {{--  --}}
              {{-- contenido 2  --}}
-<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022" class="text-morado">EasyChair.</a><label for="" class="text-muted">(Es necesario crear un usuario en la plataforma Easychear para el envio)</label>.</p>
+<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022" class="text-morado">EasyChair.</a><label for="" class="text-muted"> (Es necesario crear un usuario en la plataforma Easychear para el envio)</label>.</p>
 <p>Los artículos pueden estar escritos en el idioma original en el cual hayan sido publicados. Deben indicarse los datos de la publicación (revista, congreso, etc)</p>
 
              {{--  --}}
@@ -239,7 +239,7 @@
                 <div class="col-md-12 text-justify " style="font-size:1.2em">
                              {{-- contenido 3  --}}
                              <p>Se espera la presentación gráfica de trabajos de investigación en progreso o experiencias de enseñanza de las Ciencias de la Computación llevadas adelante en el contexto de un aula, una escuela, una red de instituciones o un sistema educativo. Se pretende que la elaboración del trabajo esté a cargo de las y los protagonistas de las acciones implementadas -docentes, equipos de conducción, supervisores, funcionarios o funcionarias educativos- o investigadores e investigadoras que hayan estudiado el caso.  
-                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a><label for="" class="text-muted"><label for="" class="text-muted">(Es necesario crear un usuario en la plataforma Easychear para el envio)</label>.</label></p>
+                             Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a><label for="" class="text-muted"><label for="" class="text-muted"> (Es necesario crear un usuario en la plataforma Easychear para el envio)</label>.</label></p>
                              <p><b>Formato:</b>
                                  <ul>
                              <li>Lenguaje: español.</li>
