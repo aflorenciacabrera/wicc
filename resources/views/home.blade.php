@@ -104,13 +104,13 @@
             <tbody >
                 <tr>
                     <td><b>Presentación </b></td>
-                    <td class="text-center">14/05/2022</td>
+                    <td class="text-center"><del>14/05/2022</del> 25/05/2022</td>
                     <td class="text-center">14/06/2022</td>
                     <td class="text-center">01/07/2022</td>
                 </tr>
                 <tr>
                     <td><b>Notificación de aceptación</b></td>
-                    <td class="text-center">10/07/2022</td>
+                    <td class="text-center"><del>10/07/2022</del> 17/07/2022</td>
                     <td class="text-center">10/07/2022</td>
                     <td class="text-center">15/07/2022</td>
                 </tr>
@@ -208,7 +208,7 @@
                            
              {{--  --}}
              {{-- contenido 2  --}}
-<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022" class="text-morado">EasyChair.</a>&nbsp;<label for="" class="text-muted" style="font-size: .8em"> (Es necesario crear un usuario en la plataforma Easychair para el envío)</label>.</p>
+<p>             Se esperan artículos o adaptaciones de los mismos que hayan sido publicados en conferencias, congresos o revistas sobre alguna de las temáticas de interés de las jornadas, para compartir con la comunidad de JADiCC. Para su presentación enviar el trabajo antes del <del>14/05/2022</del> 25/05/2022 a través de <a href="https://easychair.org/" class="text-morado">EasyChair</a>.</p>
 <p>Los artículos pueden estar escritos en el idioma original en el cual hayan sido publicados. Deben indicarse los datos de la publicación (revista, congreso, etc)</p>
 
              {{--  --}}
