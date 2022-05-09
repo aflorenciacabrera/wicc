@@ -19,7 +19,7 @@
                         <div class="card-header text-center text-verde">
                            <h1> <strong>Jornadas Argentinas de Didáctica de las Ciencias de la Computación <br>(JADiCC2022)
                         </strong> </h1> <br>
-                           <h3 class="text-verde">18, 19 y 20 de agosto de 2022</h3>
+                           <h3 class="text-verde">18, 19 y 20 de agosto de 2022.</h3>
                            <br>
                            <h3 class="text-verde">Ciudad de Corrientes, Argentina</h3>
                            
