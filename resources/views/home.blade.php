@@ -315,7 +315,7 @@
               <div class="card-body card-jadicc text-negro">
                 <div class="col-md-12  text-justify" style="font-size:1.2em"> 
                              {{-- contenido 4  --}}
-                             <p>La propuesta de un taller de dos horas de duración como máximo, puede ser presentada por una persona o un equipo de personas y estar basada en una actividad probada o bien ser un diseño original. Las propuestas deberán enviarse antes del 01/07/2020 a través del <a href="https://forms.gle/oahjToPURVSpJqtV8" target="_blank" >Formularo de presentación de Talleres </a>.</p>
+                             <p>La propuesta de un taller de dos horas de duración como máximo, puede ser presentada por una persona o un equipo de personas y estar basada en una actividad probada o bien ser un diseño original. Las propuestas deberán enviarse antes del 01/07/2020 a través del <a href="https://forms.gle/oahjToPURVSpJqtV8" target="_blank" >Formulario de presentación de Talleres </a>.</p>
                              <p><b>La propuesta deberá especificar:</b>
                              <ul><li>Los saberes que pone en juego</li>
                              <li>Los objetivos a alcanzar</li>
