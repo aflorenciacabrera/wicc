@@ -105,13 +105,13 @@
             <tbody >
                 <tr>
                     <td><b>Presentación </b></td>
-                    <td class="text-center"><del>14/05/2022</del> 25/05/2022</td>
+                    <td class="text-center">25/05/2022</td>
                     <td class="text-center">14/06/2022</td>
                     <td class="text-center">01/07/2022</td>
                 </tr>
                 <tr>
                     <td><b>Notificación de aceptación</b></td>
-                    <td class="text-center"><del>10/07/2022</del> 17/07/2022</td>
+                    <td class="text-center">17/07/2022</td>
                     <td class="text-center">10/07/2022</td>
                     <td class="text-center">15/07/2022</td>
                 </tr>
@@ -189,7 +189,7 @@
               <div class="col-md-12 text-justify " style="font-size:1.2em">
                   {{--  --}}
                 {{-- contenido 1  --}}
-                                    <p> Se esperan trabajos de investigaciones realizadas por un investigador o una investigadora, estudiantes de doctorado o un equipo sobre alguna de las temáticas de interés de las jornadas. Para su presentación enviar el trabajo antes del 14/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a>&nbsp;<label for="" class="text-muted" style="font-size: 0.8em" > (Es necesario crear un usuario en la plataforma Easychair para el envío).</label></p>
+                                    <p> Se esperan trabajos de investigaciones realizadas por un investigador o una investigadora, estudiantes de doctorado o un equipo sobre alguna de las temáticas de interés de las jornadas. Para su presentación enviar el trabajo antes del 25/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a>&nbsp;<label for="" class="text-muted" style="font-size: 0.8em" > (Es necesario crear un usuario en la plataforma Easychair para el envío).</label></p>
                         <p>Los artículos presentados para su evaluación deberán estar anonimizados.</p>
                         <p>
                            <b> Formato:</b>
