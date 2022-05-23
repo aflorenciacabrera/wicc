@@ -127,6 +127,9 @@
             
             <p ><h4>El envío de propuestas estará disponible desde el 12 de
                 abril de 2022</h4></p>
+                <p>
+                   <h3> Consultas: <a href="mailto:jadicc2022@gmail.com?Subject=Consulta Web %20Jadicc%20-2022">jadicc2022@gmail.com</a><h3>
+                </p>
         
                   
         </div>
