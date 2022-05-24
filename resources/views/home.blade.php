@@ -159,6 +159,7 @@
             <li>Preconceptos de estudiantes con respecto a programación y CC en general</li>
             <li>Jerarquización de contenidos de las CC en el contexto de la pandemia de Covid 19</li>
             <li>Aprendizajes y desarrollo cognitivo a partir de la enseñanza de la programación</li>
+            <li>Abordaje de la enseñanza de los contenidos propios de la CC en la Universidad.</li>
             </ul>
       </p>
         
