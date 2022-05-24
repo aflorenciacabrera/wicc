@@ -105,8 +105,8 @@
             <tbody >
                 <tr>
                     <td><b>Presentación </b></td>
-                    <td class="text-center">25/05/2022</td>
-                    <td class="text-center">14/06/2022</td>
+                    <td class="text-center">20/06/2022</td>
+                    <td class="text-center">20/06/2022</td>
                     <td class="text-center">01/07/2022</td>
                 </tr>
                 <tr>
