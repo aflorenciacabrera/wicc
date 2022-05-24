@@ -111,9 +111,9 @@
                 </tr>
                 <tr>
                     <td><b>Notificación de aceptación</b></td>
-                    <td class="text-center">17/07/2022</td>
-                    <td class="text-center">10/07/2022</td>
-                    <td class="text-center">15/07/2022</td>
+                    <td class="text-center">25/07/2022</td>
+                    <td class="text-center">25/07/2022</td>
+                    <td class="text-center">20/07/2022</td>
                 </tr>
                 <tr>
                     <td><b>Presentación de versión final</b></td>
