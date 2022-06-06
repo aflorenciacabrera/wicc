@@ -99,6 +99,7 @@
             <thead class="text-center verde" >
                 <th> Instancias</th>
                 <th>Artículos (originales y publicados)</th>
+                <th>Experiencias docnetes</th>
                 <th>Posters</th>
                 <th>Talleres</th>
             </thead>
@@ -107,16 +108,19 @@
                     <td><b>Presentación </b></td>
                     <td class="text-center">20/06/2022</td>
                     <td class="text-center">20/06/2022</td>
+                    <td class="text-center">20/06/2022</td>
                     <td class="text-center">01/07/2022</td>
                 </tr>
                 <tr>
                     <td><b>Notificación de aceptación</b></td>
                     <td class="text-center">25/07/2022</td>
                     <td class="text-center">25/07/2022</td>
+                    <td class="text-center">25/07/2022</td>
                     <td class="text-center">20/07/2022</td>
                 </tr>
                 <tr>
                     <td><b>Presentación de versión final</b></td>
+                    <td class="text-center">31/07/2022</td>
                     <td class="text-center">31/07/2022</td>
                     <td class="text-center">31/07/2022</td>
                     <td class="text-center">31/07/2022</td>
@@ -193,7 +197,7 @@
               <div class="col-md-12 text-justify " style="font-size:1.2em">
                   {{--  --}}
                 {{-- contenido 1  --}}
-                                    <p> Se esperan trabajos de investigaciones realizadas por un investigador o una investigadora, estudiantes de doctorado o un equipo sobre alguna de las temáticas de interés de las jornadas. Para su presentación enviar el trabajo antes del 25/05/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a>&nbsp;<label for="" class="text-muted" style="font-size: 0.8em" > (Es necesario crear un usuario en la plataforma Easychair para el envío).</label></p>
+                                    <p> Se esperan trabajos de investigaciones realizadas por un investigador o una investigadora, estudiantes de doctorado o un equipo sobre alguna de las temáticas de interés de las jornadas. Para su presentación enviar el trabajo antes del 20/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a>&nbsp;<label for="" class="text-muted" style="font-size: 0.8em" > (Es necesario crear un usuario en la plataforma Easychair para el envío).</label></p>
                         <p>Los artículos presentados para su evaluación deberán estar anonimizados.</p>
                         <p>
                            <b> Formato:</b>
@@ -219,13 +223,69 @@
           </div>
         </div>
         <div class="card">
+          <div class="card text-left border-0" id="headingNew">
+            <h5 class="mb-0">
+              <button class="btn verde collapsed btn-block text-left" data-toggle="collapse" data-target="#collapseNew" aria-expanded="true" aria-controls="collapseNew">
+              
+                    <strong class="" style="font-size:1.2em">
+                      2. Experiencias docentes
+                        &nbsp;
+                       <i class="fas fa-chevron-down"></i>
+                    </strong>  
+              </button>
+            </h5>
+          </div>
+      
+          <div id="collapseNew" class="collapse " aria-labelledby="headingNew" data-parent="#accordion">
+            <div class="card-body card-jadicc text-negro">
+              <div class="col-md-12 text-justify " style="font-size:1.2em">
+                  {{--  --}}
+                {{-- contenido 1  --}}
+                       <p>Se esperan trabajos sobre experiencias docentes de enseñanza de las Ciencias de la Computación llevadas a cabo por el/los autores, en cualquiera de los niveles del sistema educativo. </br>El trabajo debería presentar los siguientes componentes:
+<ul>                           
+<li>Introducción: Marco conceptual en que se basa la experiencia docente. </li>
+<li>Descripción de la experiencia: Contexto, contenidos, metodología, herramientas utilizadas, destinatarios. </li>
+<li>Resultados: Aprendizajes logrados. Fortalezas y debilidades identificadas. </li>
+<li>Conclusiones: Propuestas superadoras basadas en la experiencia para continuar a futuro.</li>
+</ul>
+                       </p>
+<p>Para su presentación enviar el trabajo hasta el 20/06/2022 a través de EasyChair. Los artículos presentados para su evaluación deberán estar anonimizados.
+Formato:
+<ul>
+<li>Lenguaje: Español.</li>
+<li>Tamaño de papel: A4.</li>
+<li>Extensión máxima: 10 páginas </li>
+<li>Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
+</ul>
+Formato del texto:
+<ul>
+<li>Fuentes: Times New Roman 12 para el texto.</li>
+<li>Justificación a ambos márgenes.</li>
+<li>Páginas sin numerar.</li>
+<li>El texto debe incluir (i) título; (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; (iii) resumen; y (iv) palabras clave (máximo 5). </li>
+(*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. 
+<li>Presentación del documento en formato editable (WORD, RTF o similar).</li>
+<li>
+Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https://normas-apa.org/referencias/" target="_blank">https://normas-apa.org/referencias/</a>)</li>
+<li><a target="_blank" href="{{asset('doc/Experiencias Docentes.docx')}}">Descargar Plantilla Word</a></li>
+</ul>
+
+
+
+
+      
+      </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
           <div class="card text-left  border-0" id="headingTwo">
             <h5 class="mb-0">
              
                     <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       
                         <strong class="text-left" style="font-size:1.2em">
-                            2. Trabajos publicados
+                            3. Trabajos publicados
                             &nbsp;
                       
                             <i class="fas fa-chevron-down"></i>
@@ -258,7 +318,7 @@
                       <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                         
                           <strong class="text-left" style="font-size:1.2em">
-                             3. Posters
+                             4. Posters
                         
                               <i class="fas fa-chevron-down"></i>
                         
@@ -304,7 +364,7 @@
                       <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                         
                           <strong class="text-left" style="font-size:1.2em">
-                              4. Talleres
+                              5. Talleres
                               &nbsp;
                         
                               <i class="fas fa-chevron-down"></i>
