@@ -99,7 +99,7 @@
             <thead class="text-center verde" >
                 <th> Instancias</th>
                 <th>Artículos (originales y publicados)</th>
-                <th>Experiencias docnetes</th>
+                <th>Experiencias docentes</th>
                 <th>Posters</th>
                 <th>Talleres</th>
             </thead>
