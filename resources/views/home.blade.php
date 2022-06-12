@@ -249,7 +249,7 @@
 <li>Conclusiones: Propuestas superadoras basadas en la experiencia para continuar a futuro.</li>
 </ul>
                        </p>
-<p>Para su presentación enviar el trabajo hasta el 20/06/2022 a través de EasyChair. Los artículos presentados para su evaluación deberán estar anonimizados.
+<p>Para su presentación enviar el trabajo hasta el 20/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair</a>. Los artículos presentados para su evaluación deberán estar anonimizados.
 Formato:
 <ul>
 <li>Lenguaje: Español.</li>
