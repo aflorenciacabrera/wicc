@@ -408,10 +408,178 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
           </div>
        
       </div>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
+     
+    <hr class="hr">
+     <div class="row justify-content-center pt-3">
+        <p ><h2><strong class="text-morado">Comité Académico</strong></h2></p>
+     </div>
+     <div class="col-md-10 offset-md-1 text-justify" style="font-size: 1.2em">
+      <table class="table table-sm">
+   
+    <tr>
+        <td>Araceli N. 
+            Acosta 
+        </td><td>FAMAF - Universidad Nacional de Córdoba</td>
+    </tr>
+    <tr>
+        <td>Claudia 
+            Banchoff 
+        </td><td>UNLP</td>
+    </tr>
+    <tr>
+        <td>Francisco 
+            Bavera 
+        </td><td>UNRC</td>
+    </tr>
+    <tr>
+        <td>Veronica Andrea 
+            Bollati 
+        </td><td>CONICET - UNIVERSIDAD TECNOLÓGICA NACIONAL</td>
+    </tr>
+    <tr>
+        <td>Claudia 
+            Casariego 
+        </td><td>UNLa</td>
+    </tr>
+    <tr>
+        <td>Marcela 
+            Daniele 
+        </td><td>Universidad Nacional de Río Cuarto</td>
+    </tr>
+    <tr>
+        <td>Claudia 
+            Deco 
+        </td><td>Universidad Nacional de Rosario</td>
+    </tr>
+    <tr>
+        <td>Jacqueline 
+            Fernández 
+        </td><td>Universidad Nacional de San Luis</td>
+    </tr>
+    <tr>
+        <td>Emmanuel 
+            Frati 
+        </td><td>Universidad Nacional de Chilecito</td>
+    </tr>
+    <tr>
+        <td>Laura Virginia 
+            Garbarini 
+        </td><td>Universidad Nacional de Lanús</td>
+    </tr>
+    <tr>
+        <td>María Fernanda 
+            Golobisky 
+        </td><td>CONICET</td>
+    </tr>
+    <tr>
+        <td>Marcos 
+            Gómez 
+        </td><td>Fundación Dr. Manuel Sadosky</td>
+    </tr>
+    <tr>
+        <td>Marta 
+            Lasso 
+        </td><td>Universidad Nacional de la Patagonia Austral</td>
+    </tr>
+    <tr>
+        <td>Maria Carmen 
+            Leonardi 
+        </td><td>UNCPBA</td>
+    </tr>
+    <tr>
+        <td>Matías 
+            Lopez-Rosenfeld 
+        </td><td>UBA-CONICET</td>
+    </tr>
+    <tr>
+        <td>Sonia I. 
+            Mariño 
+        </td><td>FaCENA - UNNE</td>
+    </tr>
+    <tr>
+        <td>Pablo E. 
+            Martínez López 
+        </td><td>UNQ</td>
+    </tr>
+    <tr>
+        <td>Flavia 
+            Millan 
+        </td><td>UNSJ</td>
+    </tr>
+    <tr>
+        <td>Natalia 
+            Monjelat 
+        </td><td>IRICE (CONICET-UNR)</td>
+    </tr>
+    <tr>
+        <td>Noelia Soledad 
+            Pinto 
+        </td><td>UTN FRRe</td>
+    </tr>
+    <tr>
+        <td>Fernando 
+            Puricelli 
+        </td><td>Universidad Nacional de Hurlongham</td>
+    </tr>
+    <tr>
+        <td>Nora 
+            Reyes 
+        </td><td>UNSL</td>
+    </tr>
+    <tr>
+        <td>Jorge 
+            Rodríguez 
+        </td><td>Universidad Nacional del Comahue</td>
+    </tr>
+    <tr>
+        <td>Lucila 
+            Romero 
+        </td><td>UNL</td>
+    </tr>
+    <tr>
+        <td>Alfredo Héctor 
+            Sanzo 
+        </td><td>UTN/UNQ</td>
+    </tr>
+    <tr>
+        <td>Pablo 
+            Turjanski 
+        </td><td>Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales. Departamento de Computación.</td>
+    </tr>
+    <tr>
+        <td>Silvia 
+            Villagra 
+        </td><td>UNPA-UACO</td>
+    </tr>
+</table>
+        
+     </div>
+      <hr class="hr">
+     <div class="row justify-content-center pt-3">
+        <p ><h2><strong class="text-morado">Chairs</strong></h2></p>
+     </div>
+     <div class="col-md-10 offset-md-1 text-justify" style="font-size: 1.2em">
+      <table class="table table-sm">
+   
+     <tr>
+        <td>Emanuel 
+            Irrazábal 
+        </td><td>FaCENA - UNNE</td>
+    </tr>
+    <tr>
+        <td>Gladys 
+            Dapozo 
+        </td><td>FaCENA - UNNE</td>
+    </tr>
+    <tr>
+        <td>Christian 
+            Cossio-Mercado 
+        </td><td>Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales. Departamento de Computación.</td>
+    </tr>
+       
+</table>
+        
+     </div>
 
      
 
