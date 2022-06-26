@@ -22,7 +22,7 @@
              </b></br>
              FaCENA - UNNE
          </li>
-         <li>
+         <li id="comite">
              <b>Christian
                  Cossio-Mercado
              </b></br>
@@ -37,7 +37,7 @@
      </table>
 
  </div>
- <hr class="hr">
+ <hr class="hr" >
  <div class="row justify-content-center pt-3">
 
      <p>
@@ -188,7 +188,7 @@
                             </br>Departamento de Computación
                          </li>
 
-                         <li><b>Silvia
+                         <li id="organizador"><b>Silvia
                                  Villagra
                              </b></br>UNPA-UACO</li>
                      </ul>
@@ -200,7 +200,7 @@
 
  </div>
 
- <hr class="hr">
+ <hr class="hr" >
  <div class="row justify-content-center pt-3">
      <p>
      <h2><strong class="text-morado">Comité Organizador FaCENA-UNNE:</strong></h2>

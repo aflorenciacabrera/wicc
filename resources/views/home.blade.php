@@ -16,7 +16,7 @@
                 <div class="col-md-6 offset-md-3">
                     <div class="card shadow">
                     
-                        <div class="card-header text-center text-verde">
+                        <div class="card-header text-center text-verde " id="introduccion">
                            <h1> <strong>Jornadas Argentinas de Didáctica de las Ciencias de la Computación <br>(JADiCC2022)
                         </strong> </h1> <br>
                            <h3 class="text-verde">18, 19 y 20 de agosto de 2022.</h3>
@@ -51,7 +51,7 @@
 
    
  
-   <div class="row justify-content-between pt-2 text-center">
+   <div class="row justify-content-between pt-2 text-center" >
         <div class="col-md-10 offset-md-1">
             <p ><h2><strong class="text-morado">Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
               
@@ -84,7 +84,7 @@
 <p><h4><a href="https://jadicc.program.ar/">JADiCC 2021 (Fundación Sadosky)</a></h4></p>
         </div>
      </div>
-     <hr class="hr">
+     <hr class="hr" id="plazos">
      {{-- ----------******************** --}}
      
      <div class="row justify-content-center pt-3">
@@ -95,7 +95,7 @@
         </div>
 
         <div class="col-md-10 text-center text-negro ">
-          <table id="tabla" class="table table-sm">
+          <table id="tabla" class="table table-sm table-responsive">
             <thead class="text-center verde" >
                 <th> Instancias</th>
                 <th>Artículos (originales y publicados)</th>
@@ -103,7 +103,7 @@
                 <th>Posters</th>
                 <th>Talleres</th>
             </thead>
-            <tbody >
+            <tbody id="contacto" >
                 <tr>
                     <td><b>Presentación </b></td>
                     <td class="text-center">20/06/2022</td>
@@ -174,21 +174,21 @@
                         <p>Los artículos presentados para su evaluación deberán estar anonimizados.</p>
                         <p>
                            <b> Formato:</b>
-                        <ul>
-                            <li>Lenguaje: Español.</li>
-                                <li>Tamaño de papel: A4.</li>
-                                    <li>Extensión máxima: 14 páginas </li>
-                                        <li>Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
+                        <ul class="listado">
+                            <li class="listado">Lenguaje: Español.</li>
+                                <li class="listado">Tamaño de papel: A4.</li>
+                                    <li class="listado">Extensión máxima: 14 páginas </li>
+                                        <li class="listado">Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
                         </ul>
                         <b>Formato del texto:</b>
-                        <ul>
-                        <li>Fuentes: Times New Roman 12 para el texto.</li>
-                        <li>Justificación a ambos márgenes.</li>
-                        <li> Páginas sin numerar.</li>
-                        <li>El texto debe incluir (i) título; (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; (iii) resumen; y (iv) palabras clave (máximo 5). 
+                        <ul class="listado">
+                        <li class="listado">Fuentes: Times New Roman 12 para el texto.</li>
+                        <li class="listado">Justificación a ambos márgenes.</li>
+                        <li class="listado"> Páginas sin numerar.</li>
+                        <li class="listado">El texto debe incluir (i) título; (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; (iii) resumen; y (iv) palabras clave (máximo 5). 
                         (*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. </li>
-                        <li>Presentación del documento en formato editable (WORD, RTF o similar).</li>
-                        <li>Las citas y referencias deben hacerse siguiendo las normas APA (https://normas-apa.org/referencias/).</li>
+                        <li class="listado">Presentación del documento en formato editable (WORD, RTF o similar).</li>
+                        <li class="listado">Las citas y referencias deben hacerse siguiendo las normas APA (https://normas-apa.org/referencias/).</li>
                         </ul>
       
       </div>
@@ -215,32 +215,32 @@
                   {{--  --}}
                 {{-- contenido 1  --}}
                        <p>Se esperan trabajos sobre experiencias docentes de enseñanza de las Ciencias de la Computación llevadas a cabo por el/los autores, en cualquiera de los niveles del sistema educativo. </br>El trabajo debería presentar los siguientes componentes:
-<ul>                           
-<li>Introducción: Marco conceptual en que se basa la experiencia docente. </li>
-<li>Descripción de la experiencia: Contexto, contenidos, metodología, herramientas utilizadas, destinatarios. </li>
-<li>Resultados: Aprendizajes logrados. Fortalezas y debilidades identificadas. </li>
-<li>Conclusiones: Propuestas superadoras basadas en la experiencia para continuar a futuro.</li>
+<ul class="listado">                           
+<li class="listado">Introducción: Marco conceptual en que se basa la experiencia docente. </li>
+<li class="listado">Descripción de la experiencia: Contexto, contenidos, metodología, herramientas utilizadas, destinatarios. </li>
+<li class="listado">Resultados: Aprendizajes logrados. Fortalezas y debilidades identificadas. </li>
+<li class="listado">Conclusiones: Propuestas superadoras basadas en la experiencia para continuar a futuro.</li>
 </ul>
                        </p>
 <p>Para su presentación enviar el trabajo hasta el 20/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair</a>. Los artículos presentados para su evaluación deberán estar anonimizados.
 Formato:
-<ul>
-<li>Lenguaje: Español.</li>
-<li>Tamaño de papel: A4.</li>
-<li>Extensión máxima: 10 páginas </li>
-<li>Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
+<ul class="listado">
+<li class="listado">Lenguaje: Español.</li>
+<li class="listado">Tamaño de papel: A4.</li>
+<li class="listado">Extensión máxima: 10 páginas </li>
+<li class="listado">Márgenes: superior 3 cm; inferior, derecho e izquierdo 2 cm.</li>
 </ul>
 Formato del texto:
-<ul>
-<li>Fuentes: Times New Roman 12 para el texto.</li>
-<li>Justificación a ambos márgenes.</li>
-<li>Páginas sin numerar.</li>
-<li>El texto debe incluir (i) título; (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; (iii) resumen; y (iv) palabras clave (máximo 5). </li>
+<ul class="listado">
+<li class="listado">Fuentes: Times New Roman 12 para el texto.</li>
+<li class="listado">Justificación a ambos márgenes.</li>
+<li class="listado">Páginas sin numerar.</li>
+<li class="listado">El texto debe incluir (i) título; (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; (iii) resumen; y (iv) palabras clave (máximo 5). </li>
 (*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. 
-<li>Presentación del documento en formato editable (WORD, RTF o similar).</li>
-<li>
+<li class="listado">Presentación del documento en formato editable (WORD, RTF o similar).</li>
+<li class="listado">
 Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https://normas-apa.org/referencias/" target="_blank">https://normas-apa.org/referencias/</a>)</li>
-<li><a target="_blank" href="{{asset('doc/Experiencias Docentes.docx')}}">Descargar Plantilla Word</a></li>
+<li class="listado"><a target="_blank" href="{{asset('doc/Experiencias Docentes.docx')}}">Descargar Plantilla Word</a></li>
 </ul>
 
 
@@ -284,7 +284,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
           </div>
         </div>
         {{--  --}}
-        <div class="card">
+        <div class="card" id="chairs">
             <div class="card text-left  border-0" id="headingTwo">
               <h5 class="mb-0">
                
@@ -308,11 +308,11 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
                              <p>Se espera la presentación gráfica de trabajos de investigación en progreso o experiencias de enseñanza de las Ciencias de la Computación llevadas adelante en el contexto de un aula, una escuela, una red de instituciones o un sistema educativo. Se pretende que la elaboración del trabajo esté a cargo de las y los protagonistas de las acciones implementadas -docentes, equipos de conducción, supervisores, funcionarios o funcionarias educativos- o investigadores e investigadoras que hayan estudiado el caso.  
                              Para su presentación enviar el poster antes del 14/06/2022 a través de <a href="https://easychair.org/conferences/?conf=jadicc2022 " class="text-morado">EasyChair.</a>&nbsp;<label for="" class="text-muted" style="font-size:0.8em" > (Es necesario crear un usuario en la plataforma Easychair para el envío).</label></p>
                              <p><b>Formato:</b>
-                                 <ul>
-                             <li>Lenguaje: español.</li>
-                             <li>Tamaño de papel: A3.</li>
-                             <li>Formato del archivo: PDF.</li>
-                             <li>El poster debe contener: (i) título del trabajo, (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; y (iii) palabras clave (máximo 5). 
+                                 <ul class="listado">
+                             <li class="listado">Lenguaje: español.</li>
+                             <li class="listado">Tamaño de papel: A3.</li>
+                             <li class="listado">Formato del archivo: PDF.</li>
+                             <li class="listado">El poster debe contener: (i) título del trabajo, (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; y (iii) palabras clave (máximo 5). 
                                  <br>(*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. 
                              </li>
                                  </ul>
@@ -320,9 +320,9 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
                              
                              </p>
                              <p>Se espera que la visualización del póster describa en forma ágil y sencilla el trabajo presentado. A modo de ejemplo, a continuación, se muestra qué información se espera encontrar (al menos) en tres tipos de posters:
-                             <ul><li><b>Póster de Investigación</b>. Debe contener el problema y los objetivos de la investigación, la metodología y principales resultados o avances.</li>
-                             <li><b>Póster de caso</b>. Debe contener los objetivos de la experiencia, el contexto de la implementación, descripción de destinatarios y participantes, contenidos abordados, herramientas utilizadas, aprendizajes alcanzados.</li>
-                             <li><b>Póster de presentación de una herramienta</b>. Debe contener el problema educativo que aborda la herramienta (aprendizaje, retención, rendimiento, acompañamiento, feedback, etc), la descripción de la herramienta y la descripción de cómo la herramienta mejora la situación educativa.</li>
+                             <ul class="listado"><li class="listado"><b>Póster de Investigación</b>. Debe contener el problema y los objetivos de la investigación, la metodología y principales resultados o avances.</li>
+                             <li class="listado"><b>Póster de caso</b>. Debe contener los objetivos de la experiencia, el contexto de la implementación, descripción de destinatarios y participantes, contenidos abordados, herramientas utilizadas, aprendizajes alcanzados.</li>
+                             <li class="listado"><b>Póster de presentación de una herramienta</b>. Debe contener el problema educativo que aborda la herramienta (aprendizaje, retención, rendimiento, acompañamiento, feedback, etc), la descripción de la herramienta y la descripción de cómo la herramienta mejora la situación educativa.</li>
                              </p>
                     
                         </div>
@@ -354,20 +354,20 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
                              {{-- contenido 4  --}}
                              <p>La propuesta de un taller de dos horas de duración como máximo, puede ser presentada por una persona o un equipo de personas y estar basada en una actividad probada o bien ser un diseño original. Las propuestas deberán enviarse antes del 01/07/2020 a través del <a href="https://forms.gle/oahjToPURVSpJqtV8" target="_blank" >Formulario de presentación de Talleres </a>.</p>
                              <p><b>La propuesta deberá especificar:</b>
-                             <ul><li>Los saberes que pone en juego</li>
-                             <li>Los objetivos a alcanzar</li>
-                             <li>Los destinatarios para el cual fue diseñado</li>
-                             <li>La o las herramientas y/o equipamientos e infraestructura requerida</li>
-                             <li>El enfoque didáctico en el que se fundamenta</li>
-                             <li>El modo en que se evalúan los aprendizajes alcanzados</li>
+                             <ul class="listado"><li class="listado">Los saberes que pone en juego</li>
+                             <li class="listado">Los objetivos a alcanzar</li>
+                             <li class="listado">Los destinatarios para el cual fue diseñado</li>
+                             <li class="listado">La o las herramientas y/o equipamientos e infraestructura requerida</li>
+                             <li class="listado">El enfoque didáctico en el que se fundamenta</li>
+                             <li class="listado">El modo en que se evalúan los aprendizajes alcanzados</li>
                              </ul>
                              Se espera una propuesta pedagógica de enseñanza de las Ciencias de la Computación centrada en el hacer, de una forma creativa y reflexiva y que aborde la enseñanza de cualesquiera de los siguientes saberes -sin que esta lista sea ni exhaustiva ni excluyente:
-                             <ul><li>Aquellos necesarios para poder formular soluciones efectivas y sistemáticas a diversos tipos de problemas: la algoritmia.</li>
-                             <li>Los conocimientos necesarios para poder volcar esas soluciones algorítmicas a los diversos lenguajes que utilizan las computadoras: la programación.</li>
-                             <li>Las formas de almacenar la información de manera que pueda ser recuperada y que se pueda buscar velozmente un dato entre miles o millones de otros: las estructuras de datos y las bases de datos.</li>
-                             <li>El entendimiento de los componentes que definen los distintos tipos de computadoras: las arquitecturas de computadoras. </li>
-                             <li>La forma en que las computadoras intercambian información: las redes de computadoras. </li>
-                             <li>El aprendizaje automático y la ciencia de datos (usualmente englobados bajo el término inteligencia artificial), que se ocupa de la combinación de varias de las áreas previamente mencionadas para abordar problemas muy complejos mediante mecanismos que tienen puntos en común con la cognición humana.</li>
+                             <ul class="listado"><li class="listado">Aquellos necesarios para poder formular soluciones efectivas y sistemáticas a diversos tipos de problemas: la algoritmia.</li>
+                             <li class="listado">Los conocimientos necesarios para poder volcar esas soluciones algorítmicas a los diversos lenguajes que utilizan las computadoras: la programación.</li>
+                             <li class="listado">Las formas de almacenar la información de manera que pueda ser recuperada y que se pueda buscar velozmente un dato entre miles o millones de otros: las estructuras de datos y las bases de datos.</li>
+                             <li class="listado">El entendimiento de los componentes que definen los distintos tipos de computadoras: las arquitecturas de computadoras. </li>
+                             <li class="listado">La forma en que las computadoras intercambian información: las redes de computadoras. </li>
+                             <li class="listado">El aprendizaje automático y la ciencia de datos (usualmente englobados bajo el término inteligencia artificial), que se ocupa de la combinación de varias de las áreas previamente mencionadas para abordar problemas muy complejos mediante mecanismos que tienen puntos en común con la cognición humana.</li>
                              </ul>
                              {{-- Más información en: https://jadicc2022.unne.edu.ar --}}
                              
@@ -382,7 +382,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
        
       </div>
      
-    <hr class="hr">
+    <hr class="hr" >
      
 
       @include('layouts.comite')
@@ -437,11 +437,11 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
         background-image: url({{asset('image/ctes_4.png')}});
     }
     
-   ul {
+   .listado ul {
   list-style: none; /* Remove default bullets */
 }
 
-ul li::before {
+.listado ul li::before {
   content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: #7777f0; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
@@ -562,7 +562,10 @@ ul li::before {
 <script>
     $(document).ready(function(){
 
-        console.log("ready")
+        // console.log("ready")
+        $('.dropdown-item').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
     });
 
   
