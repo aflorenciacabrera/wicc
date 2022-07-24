@@ -12,7 +12,7 @@
             <h2>
                 Agenda de Actividades JADiCC 2022
             </h2>
-           <img class="img img-fluid py-2" src="{{asset('image/agenda_jadicc.png')}}">
+           <img class="img img-fluid py-2" src="{{asset('image/agenda_jadicc_.png')}}">
         
         
            <p>
