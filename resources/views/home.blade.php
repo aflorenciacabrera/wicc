@@ -27,31 +27,38 @@
                     </div>
                 </div>
             </div>
-            <div class="row pt-1">
+            {{-- <div class="row pt-1">
                 <div class="col-md-6 offset-md-3">
-                     {{-- <div class="row">
-                         <div class="col-md-4">
-                            <a class="card boton shadow " target="_blank" >
-                            
-                                <div class="card-header pt-4 pb-4 text-center">
-                                 
-                                   <small class="text-muted"> (próximamente)</small> 
-                                </div>
-                                
-                            </a>
+                     <div class="row">
+                        <div class="col-md-4 ">
+                        </div>
+                         <div class="col-md-4 ">
+                           
                          </div>
-                     </div> --}}
+                     </div>
                 </div>
-            </div>
+            </div> --}}
+            
         </div>
+        
     </div>
 
 </div>
 <div class="container" id="central" style="background-color:#f0f0fd;">
 
-   
- 
+      <div class="row justify-content-between pt-2 text-center" >
+
+      
+    
+        <div class="col-md-10 offset-md-1">
+            <p ><a style="font-size:2em " target="_blank" href="https://www.eventbrite.com.ar/e/jadicc-2022-tickets-385796998207" ><strong>INSCRIBIRSE</strong></a></p>
+        </div>
+      </div>
+     <hr class="hr">
    <div class="row justify-content-between pt-2 text-center" >
+
+
+    
         <div class="col-md-10 offset-md-1">
             <p ><h2><strong class="text-morado">Jornadas Argentinas de Didáctica de las Ciencias de la Computación </strong></h2></p>
               
@@ -471,6 +478,10 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
         background-color:  rgb(162 237 85 / 100%);
         color:white;
         cursor:pointer;
+    }
+
+    .btn-inscripcion{
+      background-color:#c7fb02
     }
 
     

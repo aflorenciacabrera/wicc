@@ -54,7 +54,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="{{route('home')}}#">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     
                     <li class="nav-item dropdown">
@@ -63,7 +63,7 @@
                            Qué es JADiCC 
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#introduccion">Introducción</a>
+                            <a class="dropdown-item" href="{{route('home')}}#" >Introducción</a>
                         </div>
                     </li>
                        <li class="nav-item dropdown">
