@@ -20,7 +20,7 @@
                 <strong>Inscripciones al Evento</strong>
             </a>
               <a target="_blank" class="btn btn-danger" href="https://calendar.google.com/calendar/u/1?cid=dGhlNWdkc2d2ODMwaml0bW5xa3JvaWQ2ZzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">
-                <strong>Ver en Google Calendar</strong>
+                <strong>Agregar a Google Calendar</strong>
             </a>
             
         </p>
