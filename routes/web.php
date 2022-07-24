@@ -20,4 +20,5 @@ use Illuminate\Support\Facades\Route;
 // Auth::routes();
 
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/videos', [App\Http\Controllers\HomeController::class, 'videos'])->name('videos');
+Route::get('/agenda', [App\Http\Controllers\HomeController::class, 'agenda'])->name('agenda');
+

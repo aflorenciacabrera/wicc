@@ -25,8 +25,16 @@ class HomeController extends Controller
     {
         return view('home');
     }
-    public function videos()
+    public function agenda()
     {
-        return view('videos');
+        return view('agenda.index');
+    }
+    public function inscripcion()
+    {
+        return view('inscripcion.index');
+    }
+    public function organizacion()
+    {
+        return view('organizacion.index');
     }
 }

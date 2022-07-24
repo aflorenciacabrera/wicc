@@ -336,8 +336,8 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
                
                       <button class="btn collapsed verde btn-block text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                         
-                          <strong class="text-left" style="font-size:1.2em">
-                              5. Talleres
+                          <strong class="text-center" style="font-size:1.2em">
+                              Agenda
                               &nbsp;
                         
                               <i class="fas fa-chevron-down"></i>
@@ -473,59 +473,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
         cursor:pointer;
     }
 
-    .azul-oscuro{
-        background-color: #333953;
-    }
-
-    .viole{
-        background-color: #748bb4;
-    }
-
-    .celeste{
-        background-color:  #85e4c4;
-    }
-
-    .clarito
-    {
-        background-color: #c2d1e4;
-    }
-    .azul{
-        background-color: #789bdd !important;
-    }
-
-    .text-azul-oscuro{
-            color: #333953;
-        }
-
-    .text-viole{
-            color: #748bb4;
-        }
-
-    .text-celeste{
-            color:  #85e4c4;
-        }
-
-    .text-clarito
-    {
-        color: #c2d1e4;
-    }
-
-    .poppins{
-        font-family: 'Poppins';font-size: 22px;
-
-    }
-
-    .text-verde{
-
-        color:#c7fb02;
-    }
-
-    .text-negro{
-        color: #212529
-    }
-      .text-morado{
-        color: #7777f0
-    }
+    
 
     /* #333953  azul oscuro 
     #748bb4 viole claro
@@ -546,10 +494,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
    height: 110px;
     }
 
-    .verde{
-        background-color: #c7fb02 !important;
-        color: black;
-    }
+   
 
 
  
@@ -562,7 +507,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
 <script>
     $(document).ready(function(){
 
-        // console.log("ready")
+        console.log("ready")
         $('.dropdown-item').on('click', function(){
     $('.navbar-collapse').collapse('hide');
 });

@@ -58,7 +58,7 @@
                     </li>
                     
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        <a class="nav-link dropdown-toggle" href="{{route('home')}}#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                            Qué es JADiCC 
                         </a>
@@ -72,7 +72,7 @@
                            Convocatoria
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#plazos">Plazos y categorías de contribuciones</a>
+                            <a class="dropdown-item" href="{{route('home')}}#plazos">Plazos y categorías de contribuciones</a>
                         </div>
                     </li>
                       <li class="nav-item dropdown">
@@ -81,25 +81,25 @@
                            Organización
                         </a>
                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#chairs">Chairs</a>
-                            <a class="dropdown-item" href="#comite">Comité Académico</a>
-                            <a class="dropdown-item" href="#organizador">Comité Organizador</a>
+                            <a class="dropdown-item" href="{{route('home')}}#chairs">Chairs</a>
+                            <a class="dropdown-item" href="{{route('home')}}#comite">Comité Académico</a>
+                            <a class="dropdown-item" href="{{route('home')}}#organizador">Comité Organizador</a>
                          </div>
                     </li>
-                      {{-- <li class="nav-item dropdown">
+                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                            Agenda
                         </a>
                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#chairs">Actividades</a>
-                            <a class="dropdown-item" href="#comite">Inscripcion</a>
-                            <a class="nav-link disabled" href="#">Libro de Actas</a>
+                            <a class="dropdown-item" href="{{route('agenda')}}#talleres">Talleres</a>
+                            <a class="dropdown-item" href="{{route('agenda')}}#conferencias">Conferencias</a>
+                            {{-- <a class="nav-link disabled" href="#">Libro de Actas</a> --}}
                          </div>
-                    </li> --}}
-                      <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Agenda</a>
                     </li>
+                      {{-- <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Agenda</a>
+                    </li> --}}
                       {{-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -195,6 +195,63 @@
         background-image: url("{{ asset('image/waves.png') }}");
         background-repeat: repeat-y;
         background-size: 20%;
+    }
+    .azul-oscuro{
+        background-color: #333953;
+    }
+
+    .viole{
+        background-color: #748bb4;
+    }
+
+    .celeste{
+        background-color:  #85e4c4;
+    }
+
+    .clarito
+    {
+        background-color: #c2d1e4;
+    }
+    .azul{
+        background-color: #789bdd !important;
+    }
+
+    .text-azul-oscuro{
+            color: #333953;
+        }
+
+    .text-viole{
+            color: #748bb4;
+        }
+
+    .text-celeste{
+            color:  #85e4c4;
+        }
+
+    .text-clarito
+    {
+        color: #c2d1e4;
+    }
+
+    .poppins{
+        font-family: 'Poppins';font-size: 22px;
+
+    }
+
+    .text-verde{
+
+        color:#c7fb02;
+    }
+
+    .text-negro{
+        color: #212529
+    }
+      .text-morado{
+        color: #7777f0
+    }
+ .verde{
+        background-color: #c7fb02 !important;
+        color: black;
     }
 
     
