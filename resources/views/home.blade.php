@@ -51,7 +51,8 @@
       
     
         <div class="col-md-10 offset-md-1">
-            <p ><a style="font-size:2em " target="_blank" href="https://www.eventbrite.com.ar/e/jadicc-2022-tickets-385796998207" ><strong>INSCRIBIRSE</strong></a></p>
+          <p ><h2><strong class="text-morado">Inscripcion a Talleres y Conferencias</strong></h2></p>
+            <p ><h4><a  target="_blank" href="https://www.eventbrite.com.ar/e/jadicc-2022-tickets-385796998207"><u>Formulario de Inscripción</u></a></h4></p>
         </div>
       </div>
      <hr class="hr">
