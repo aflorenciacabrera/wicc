@@ -41,7 +41,7 @@
  <div class="row justify-content-center pt-3">
 
      <p>
-     <h2><strong class="text-morado">Comité Académico</strong></h2>
+     <h2><strong class="text-morado">Comité de Programa</strong></h2>
      </p>
  </div>
  <div class="col-md-10 offset-md-1 text-justify" style="font-size: 1.2em">

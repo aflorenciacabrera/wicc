@@ -82,7 +82,7 @@
                         </a>
                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="{{route('home')}}#chairs">Chairs</a>
-                            <a class="dropdown-item" href="{{route('home')}}#comite">Comité Académico</a>
+                            <a class="dropdown-item" href="{{route('home')}}#comite">Comité de Programa</a>
                             <a class="dropdown-item" href="{{route('home')}}#organizador">Comité Organizador</a>
                          </div>
                     </li>
