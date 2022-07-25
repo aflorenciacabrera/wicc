@@ -442,7 +442,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
 
     #portada{
         
-        background-image: url({{asset('image/ctes_4.png')}});
+        background-image: url({{asset('image/ctes_5.png')}});
     }
     
    .listado ul {

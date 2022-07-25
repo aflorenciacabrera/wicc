@@ -12,9 +12,10 @@
             <h2>
                 Agenda de Actividades JADiCC 2022
             </h2>
-           <img class="img img-fluid py-2" src="{{asset('image/agenda_jadicc_.png')}}">
+           <img class="img img-fluid py-2" s src="{{asset('image/agenda.png')}}">
         
         
+
            <p>
             <a target="_blank" class="btn btn-success" href="https://www.eventbrite.com.ar/e/jadicc-2022-tickets-385796998207">
                 <strong>Inscripciones al Evento</strong>
@@ -33,7 +34,7 @@
       <h5 class="mb-0">
         <button class="btn collapsed verde btn-block text-center" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
         <strong class="text-center" style="font-size:1.2em">
-                              Agenda de Conferencias &nbsp;<i class="fas fa-chevron-down"></i>
+                             Agenda de Conferencias y Mesas debat &nbsp;<i class="fas fa-chevron-down"></i>
             </strong> 
         </button>
       </h5>

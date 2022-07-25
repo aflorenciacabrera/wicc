@@ -86,7 +86,10 @@
                             <a class="dropdown-item" href="{{route('home')}}#organizador">Comité Organizador</a>
                          </div>
                     </li>
-                      <li class="nav-item dropdown">
+                      <li class="nav-item active">
+                        <a class="nav-link" href="{{route('agenda')}}">Agenda de Actividades JADiCC </a>
+                    </li>
+                      {{-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                            Agenda
@@ -94,9 +97,10 @@
                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="{{route('agenda')}}#talleres">Talleres</a>
                             <a class="dropdown-item" href="{{route('agenda')}}#conferencias">Conferencias</a>
-                            {{-- <a class="nav-link disabled" href="#">Libro de Actas</a> --}}
+                    
+                            
                          </div>
-                    </li>
+                    </li> --}}
                       {{-- <li class="nav-item">
                         <a class="nav-link disabled" href="#">Agenda</a>
                     </li> --}}
@@ -135,11 +139,11 @@
 
         <!-- Image and text -->
 
-        <div class="container-fluid pt-5" style="background-color:#7777f0">
+        <div class="container-fluid pt-5" style="background-color:#b3b3b3">
             <div class="row">
                 <div class="col-12 col-md-6 offset-md-3">
                     <div class="col-md-12 col-12 text-center">
-                        <img src="{{ asset('image/logos.png') }}" class="w-100 w-md-75" alt="">
+                        <img src="{{ asset('image/logos_gris.png') }}" class="w-100 w-md-75" alt="">
                     </div>
                 </div>
             </div>
@@ -192,9 +196,14 @@
 <style>
     main {
         background-color: #7777f0;
-        background-image: url("{{ asset('image/waves.png') }}");
-        background-repeat: repeat-y;
-        background-size: 20%;
+        /* background-image: url("{{ asset('image/waves.png') }}"); */
+        background-image: url("{{ asset('image/fondo.svg') }}");
+        
+        background-repeat: repeat;
+        background-attachment:fixed;
+		/* overflow:scroll; */
+
+        background-size: 100% ;
     }
     .azul-oscuro{
         background-color: #333953;
