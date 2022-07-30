@@ -89,6 +89,9 @@
                       <li class="nav-item active">
                         <a class="nav-link" href="{{route('agenda')}}">Agenda de Actividades</a>
                     </li>
+                    </li>
+                  
+                    
                       {{-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -128,6 +131,9 @@
                             {{-- <a class="dropdown-item" href="#comite">Comité Académico</a> --}}
                             {{-- <a class="dropdown-item" href="#organizador">Comité Organizador</a> --}}
                          </div>
+                    </li>
+                        <li class="nav-item active">
+                        <a class="nav-link" href="https://visitcorrientes.tur.ar/" target="_blank">Visita Corrientes</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">&nbsp;</a>
