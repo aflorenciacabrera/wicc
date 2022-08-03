@@ -53,7 +53,7 @@
         <div class="col-md-10 offset-md-1">
           <p ><h2><strong class="text-morado">Inscripción a las actividades de la Agenda</strong></h2></p>
             <p ><h4><a  target="_blank" href="https://www.eventbrite.com.ar/e/jadicc-2022-tickets-385796998207"><u>Formulario de Inscripción</u></a></h4></p>
-            <p ><h4><a  target="_blank" href="{{asset('doc/Programa_de_Actividades.pdf')}}"><u>Descargar el Programa de Actividades JADICC</u></a></h4></p>
+            {{-- <p ><h4><a  target="_blank" href="{{asset('doc/Programa_de_Actividades.pdf')}}"><u>Descargar el Programa de Actividades JADICC</u></a></h4></p> --}}
             
         </div>
       </div>
@@ -320,7 +320,7 @@ Las citas y referencias deben hacerse siguiendo las normas APA (<a href="https:/
                              <p><b>Formato:</b>
                                  <ul class="listado">
                              <li class="listado">Lenguaje: español.</li>
-                             <li class="listado">Tamaño de papel: A3.</li>
+                             <li class="listado">Tamaño de papel: A1.</li>
                              <li class="listado">Formato del archivo: PDF.</li>
                              <li class="listado">El poster debe contener: (i) título del trabajo, (ii) autores (*), con sus respectivas filiaciones y direcciones de mail; y (iii) palabras clave (máximo 5). 
                                  <br>(*) en la presentación inicial no se incluyen en el texto los datos de los autores, sí en el envío final una vez aceptado el artículo para su presentación. 
