@@ -35,7 +35,7 @@
         
     </tr>
     <tr style="background-color: #aae595;">
-        <td  colspan="2" class="text-center"><strong>Viernes 19 de agosto - 11 a 13 hs. – Aula 3</strong></td>
+        <td  colspan="2" class="text-center"><strong>Viernes 19 de agosto - 11 a 13 hs. – Aula Magna</strong></td>
         <td></td>
     </tr>
     <tr>
