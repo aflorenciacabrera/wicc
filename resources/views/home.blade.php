@@ -51,9 +51,9 @@
       
     
         <div class="col-md-10 offset-md-1">
-          <p ><h2><strong class="text-morado">Inscripción a las actividades de la Agenda</strong></h2></p>
-            <p ><h4><a  target="_blank" href="https://www.eventbrite.com.ar/e/jadicc-2022-tickets-385796998207"><u>Formulario de Inscripción</u></a></h4></p>
-            <p ><h4><a  target="_blank" href="{{asset('doc/Programa_de_Actividades.pdf')}}"><u>Descargar el Programa de Actividades JADICC</u></a></h4></p>
+          <p ><h2><strong class="text-morado">Fotos de las Jornadas</strong></h2></p>
+            <p ><h4><a  target="_blank" href="https://drive.google.com/drive/folders/134FcN9QTumMSeAgf-ux5lGyy9EFL9vtz?usp=sharing"><u>Ir a la Galería</u></a></h4></p>
+            {{-- <p ><h4><a  target="_blank" href="{{asset('doc/Programa_de_Actividades.pdf')}}"><u>Descargar el Programa de Actividades JADICC</u></a></h4></p> --}}
             
         </div>
       </div>
