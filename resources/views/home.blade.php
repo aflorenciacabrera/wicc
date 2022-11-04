@@ -45,6 +45,18 @@
 
 </div>
 <div class="container" id="central" style="background-color:#f0f0fd;">
+      <div class="row justify-content-between pt-2 text-center" >
+
+      
+    
+        <div class="col-md-10 offset-md-1">
+          <p ><h2><u><a  target="_blank" href="https://repositorio.unne.edu.ar/handle/123456789/50765"><strong class="text-morado">Libro de actas : II Jornadas argentinas de didáctica de las Ciencias de la Computación 2022</strong></u></a></h2></p>
+            {{-- <p ><h4><u>Ir a la Galería</u></a></h4></p> --}}
+            {{-- <p ><h4><a  target="_blank" href="{{asset('doc/Programa_de_Actividades.pdf')}}"><u>Descargar el Programa de Actividades JADICC</u></a></h4></p> --}}
+            
+        </div>
+      </div>
+     <hr class="hr">
 
       <div class="row justify-content-between pt-2 text-center" >
 
